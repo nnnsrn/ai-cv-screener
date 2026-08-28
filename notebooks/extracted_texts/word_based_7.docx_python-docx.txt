@@ -1,0 +1,297 @@
+     PAVAN KUMAR			               Pavank0686@gmail.com			515-306-9255
+OBJECTIVE:
+Over 9+ years of strong software experience in design, development and deployment of web-based Client-Server business applications using OOP, Java/J2EE technologies.
+
+PROFESSIONAL SUMMARY:
+Ability to efficiently translate algorithms, ideas and concepts to software applications.
+Proficient in applying design patterns like MVC, Singleton, Session Facade, Service Locator, Visitor, Observer, Decorator, Front Controller, Data Access Object.
+Expertise in design with Use Case, Sequence diagrams, Activity diagrams, Class diagrams with exposure to UML, tools like Rational Rose and use of Rational Unified Process (RUP).
+Extensively worked on during my tenure in Software Development are AngularJS, ReactJS, Spring MVC, Spring Integration, Spring Batch, Apache POI, Hibernate, REST Web services, and Databases like Oracle.
+Extensive experience in developing scalable, reliable and efficient enterprise applications using Java, Spring, Struts, Hibernate, Web Services, RESTful, JSF, JDBC, JSP, Servlets, EJB, JMS, XML, XSLT, JAXB SQL,PL/SQL, Unix Shell scripting. 
+Expert Level Skills in Java, JDBC, JavaBeans, Spring Frameworks, Hibernate, Struts, JSP, JavaScript, JFC, Servlets, EJB, GWT. 
+Good experience in using Amazon Web Services (AWS) and AWS SNS/SQS for delivering messages. 
+Expertise in using Design patterns and object oriented methodologies to design software for Mobile Application. 
+Possess expertise in designing and developing web and mobile applications using HTML 5, CSS3, Less, Sass, JavaScript, JQuery, nodeJs, AngularJS. Skilled at progressing from problem statement to well documented designs.
+Expertise in the implementation of Core Java concepts of Java, J2EE Technologies: JSP, Servlets,JSF, JSTL, EJB transaction implementation (CMP, BMP, Message-Driven Beans),  JMS, Struts, Spring, Swing, Hibernate, Java Beans, JDBC, XML,  Web Services, JNDI, Multi-Threading, Data structures etc. 
+Development of services that utilize AWS SDK's (Dynamo DB, Elastic Beanstalk, EC2, Lambda) 
+Proficient in implementation of frameworks like Struts, spring, JSF, AJAX frameworks (Rich Faces, MyFaces) and ORM frameworks like Hibernate.  
+Extensive experience in designing MongoDB multi-shared cluster and monitoring with MMS. 
+Focused on architecting NoSQL databases like Mongo, Cassandra and Cache database. 
+Expertise in XML technologies such as XSL, XSLT, XML schemas, XPath, XForms, XSL-FO and parsers like SAX/DOM.
+Expertise in developing SOA (Service Oriented Architecture) and J2EE Web Services based on SOAP, WSDL, UDDI, JAX-WS, JAXB, JAX-RPC using tools like Apache Axis.
+Knowledge of XML and related technologies like XSL, XSLT and parsers like JAXP (SAX, DOM) and JAXB. 
+Proven experience with Application Servers like IBM WebSphere6.x/5.x/7.0, Oracle/BEA WebLogic 9.x/8.x/7.x/6.x, JBoss and Tomcat5.x/4.x/3/x. ,
+Proven experience in writing Queries, Stored Procedures, Triggers, Cursors, Functions and Packages using TOAD.
+Excellent experience with major relational databases – Oracle 11g/10g/9i, SQL Server 2000/2005/2008, DB2, MySQL.
+Experience in upgrading and migrating various versions of MongoDB on different platforms. 
+Strong experience with MongoDB development (reports, schema design, map reduce functions) and migrations from SQL relational databases. 
+Extensive development experience in different IDE's like Eclipse 3.x, Jbuilder 9.x/8.x, WSAD 5.x, IBM RAD and AltovaXMLSpy.
+Used Web Sphere Application Server, Web Logic Application Server, Jbossand Apache Tomcat in all my projects and successfully deployed and compiled many of the applications on them. 
+Expert level skills on JQuery, JavaScript, VBScript, Perl, AJAX, Adobe Flex, ActionScript, JSON, HTML, DHTML, CSS, Tiles, Tag Libraries.
+ Extensive experience in using Amazon Web Services like RDS,EC2,Redshift,SQS,SNS,Cloud Watch and S3 
+Experience in developing Web-Centric applications using AngularJS, BackboneJS, ExtJS, NodeJS, JavaScript, JQuery, and CSS3. 
+Hands on experience with build tools like ANT, Maven and logging tools like Log4J.
+Expertise in unit-testing with JUnit using tools like JMeter. 
+Experience in Agile software development process, Test Driven Development and Scrum methodologies.
+Experience in Developing GUIs using Eclipse RCP/SWT and Core Java Design patterns.
+Good Experience in software configuration management using CVS, GIT and SVN. 
+Experience in using Maven and ANT for build automation. 
+Knowledge on Build tool Jenkins with configuring check styles, Test coverage.
+Experienced with Splunk tool for production support. 
+Part of Scrum, Sprint review, Retrospection and Virtual Closure meetings as a part of AGILE.
+Excellent at understanding new technologies and capable of implementing without conventional training
+Strong Analytical and programming skills in using technology to develop effective complex business solutions. 
+Excel under pressure and thrive in dynamic environments. Comfortable with ambiguity and multitasking.
+
+AREAS OF EXPERTISE:
+Web Application Development, Software Development, Project Coordination, Program Design/Implementation,        
+Requirements Management, Unit and Integration Testing, Technology Integration, Program Documentation
+Software Coding, Web Programming, Test Design and Execution, Software Implementation
+
+TECHNICAL SKILLS:
+
+TECHNICAL EXPERIENCE:
+Client: Comdata, Brentwood/Tennessee							Jan 17 – Till Date
+Role: Full Stack Developer
+Description:Corporate Payment is contained framework with multiple applications. These are the applications which hosts different kinds of tests in different areas which test user’s skills and abilities in that particular area. The stakeholders of the applications are mainly test takers and administrators who host these tests from different parts of the world. Test takers use the scores of these tests as credibility for multiple educational opportunities.
+
+Responsibilities:
+As a Java back end developer, responsible for implementing business scenarios based on JAVA/ J2EE technologies.
+Involved in Requirement gathering, Design, Analysis and Code development by followingAgile methodology.
+Developed UI pages with HTML5, CSS3, JavaScript, JQuery, and used Boot Strap for creating Responsive Web pages.
+Created AngularJS Controller to control the flow of data which isolate scopes perform operations in UI pages.
+Creating a range loop directive, modules, Expressions, scope, Templates and components in AngularJS, ReactJS, NodeJS and developed the server side single page applications on AngularJS platform using JavaScript programming.
+Used Multi-threading to overcome the errors in transactions and to handle all the threads by the main thread process.
+Developed the Application using Spring Features like Spring MVC, ORM, Spring Boot and Spring Security for application access and authorization, Spring Integration, Spring AOP forcrosscutting concerns. 
+Used Spring Ribbon API to check servers are up and running in live environment to detect those servers that are down.
+Designing and implementing scalable, RESTful and Micro-services-based services for mobile back-end. The back-end is being written in Java using Spring Boot for simplicity and scalability.
+Designed Spring boot mechanism without configuration XML's and replaced it with Java classes and also used Spring boot Actuator to externalize application's configuration properties for different environments.
+Used Spring Batch as spring batch jobs for automatic processing of large amount of data in the application. 
+Spring MVC Framework IOC design pattern is used to have relationships between application components. It is also used to separate the application configuration and dependency specification from the actual application code.
+Used Micro service architecture, withSpring Bootbased services interacting through a combination of REST and Apache Kafka message brokers.Produced and consumed centralized Spring Restful Web Services for Enterprise and web applications to consume in JSON format and in trusted client-server environment.
+Used Hibernate environment for configurations, mappings, annotation extensions for easy mappings, relationships between tables and entity classes to access and update information in the database.
+Extensively used Hibernate concepts such as inheritance, lazy loading, dirty checking, locking, and transactions.
+Worked with ELK stack for searching the log, routing the log data and for visualizing the logged data. 
+Worked with Advanced Java 1.8 features like Lambda for adding functionality processing capability and Stream API to facilitate pipeline processing and method to eliminate elements based on the criteria.
+Worked on Oracle 11g database concepts such as locking, transactions, indexes, sharing, replication, schema design.
+Created Stored Procedures, User Defined functions, Views and implemented the Error Handling in the Stored Procedures and Modified already existing stored procedures, triggers, views, indexes depending on the requirement.
+Migration of Existing Application to AWS cloud platform. Used Amazon Web Services (AWS) like EC2 servers, S3 storage, RDS instances, cloud watch and Cloud Front for promoting code in multiple environments.
+Worked on creation of custom Docker container images, tagging and pushing the images to the servers.
+Used slick to query and storing in database in a Scala fashion using the powerful Scala collection framework.
+Designing, Development, JUnit testing and Integration of many components of the applications from end-to-end and Prepared Junit test cases and executed them using Junit and Continuum for integration testing. 
+Develop unit test using Karma and Jasmine. Followed strict patterns of RA team for unit test cases with jasmine.
+Used JMeterfor stress testing,Selenium WebDriver for testing the automation code.
+Used Maven as a build tool for compilation and building JAR, WAR and EAR files and retrieved all the dependencies required for the running the application, Log4J for logging errors ,messages and control log statements. 
+Worked on Git as version control management and JIRA as Defect management for bug, issue tracking of application. Used JENKINS for continuous integration (CI) and continuous deployment (CD) pipeline. 
+Implemented the application using design patterns such as Session Façade, Business Delegate, Adaptor, Bean Factory and Singleton and Deployed the application in Apache Tomcat Server.
+Environment:  JAVA(1.7, 1.8), J2EE, Spring 4.x, CXF, XFire, SOAP , Oracle11g, PL/SQL, Postman, JMS, JBoss, JUnit, PowerMockito, Mockito, JAX-WS, JIRA, UML, Maven, HTML. 
+
+
+
+Client: ETS/ACCENTURE, Princeton-New Jersey					                               July 2016 – Jan 2017
+Role: Full Stack Developer	
+Description: Java Software Engineer to design, develop, maintain and test software for the Business Process Automation team, collaborating with the development team and business partners to ensure successful delivery and implementation of application solutions
+
+Responsibilities:
+
+Developed the J2EE application based on the Rest API web services.
+Worked on Spring boot framework
+Worked on micro services by using Spring Cloud with Netflix and Eureka
+Worked on No SQL databases like Couch base and MongoDB
+Worked on distributed version control system like Git and Source Tree for GUI
+Developed security to the micro services using Zuul proxy using authentication and authorization with Active directory and Rest API service.
+Upgraded Couch base NoSQL Database from 4.1.0 to 4.5.0 with multiple clusters.
+Worked on JbossWildfly Application Server and Tomcat.
+Worked on build tool in Maven and Gradle.
+Evaluated Mesos/Marathon for Docker container orchestration.
+Used Marathon to deploy containers and applications into a Mesos cluster.
+Tested the services using postman tool.
+Worked in XML and SOAP based web services
+Worked on RDBMS like Oracle, MySQL and MS SQL.
+Worked on Message broker like RabbitMQ.
+Developed applications and testing environment for Junit and Mockito framework.
+Created and configured new JIRA projects and worked with departments to maintain existing JIRA projects.
+Experience in HTML design with CSS
+Developed the functionalities under Agile Methodology JIRA processes.
+Hands-on design and development for customer facing applications that require high availability, concurrency, multi-tenancy, high scalability for a large global user base.
+Build features using TDD (Test driven development) and Domain driven design in DevOps environment with continuous integration, regression and deployment.
+Ensure feature quality by extensive testing covering different aspects such as unit, integration, functional, performance and regression with a focus towards automation.
+Responsible for development to deployment including troubleshooting and production fixes.
+Ensured Agile distribute weekly Reports and followed up on Change Activity, managed, released documents and maintain server database.
+
+Environment: Java, J2EE,JDK 1.6, RCP, WebLogic, AWS SDK, Ext JS,  Git,  Spring 4.x,   Java, SOAP/Rest, Couch Base, MongoDB, Postman, Web Services, UML, Web Services, HTML5, CSS, SASS, RAD 7,WAS 8 WSDL, JIRA 5.x/6.x, JAXB, Linux, JAX-WS,JAX RPC, JMS, JSF,UNIX, NOSQL(MongoDB), Angular JS, NodeJs, JBoss 3.0, ReactJS, AJAX,ApacheJMeter, JQuery, JUnit, Maven,Gradle, Oracle 10g.
+
+Client:	HCA/Parallon Nashville-TN					May2014 – June 2016
+Role: Senior Java Developer
+Description: BEQ – Business Event Qualifier Portal Optimization
+
+BEQ is defined as a system used to define and process the business rules for awarding American Express Card Holders on their spend behavior/activity. It also supports CCP with the current reward information of the Card holders in real time
+
+Responsibilities:
+Involved in all the phases of software development lifecycle (SDLC) including Requirements Collection, Design & Analysis of the Customer Specifications, Development, Deployment and Customization of the Application. 
+Developed UI using HTML, CSS and jQuery to display the data on the client side. Wrote SPA (Single page web applications) using NodeJsas the server side, GULP, WEBPACK (ES6),Restful web services plus AJAX and Angular JS. 
+Used backbone JS to optimize in-browser use, to load the module and to improve the Speed. Front-end development by utilizing Java script frameworks such as JQuery, Backbone Js,NodeJSand AngularJS. 
+Developed a dashboard based on Ajax calls with Business Customers Count, Flags, Real-time graphs for Analytical Reporting using NodeJs and Wrote code to fetch data from web services using jQuery AJAXfor asynchronous communication via JSON response and updating the modified data to display in UI pages.
+Called web services with REST Architecture to specify constraintsthrough Angular JS services to get XML file data. 
+Involved in implementation of enterprise application communication and integration with Web Services and Legacy Systems using REST (Using Axis and Jersey frameworks).  
+Used various Core Java concepts such as Multi-Threading, Exception Handling, Collections framework extensively to store, retrieve and manipulate data objects of application in the business logic layer.
+Involved in writing Spring Configuration XML file that contains declarations and other dependent objects declaration. 
+Used J2EE Design patterns like Singleton, Service Locator, Session Façade and Business Delegate during development. 
+Developed micro services with Spring Eureka to retrieve API routes for the entire cluster. Using this strategy each micro service in a cluster can be load balanced and exposed through one API gateway.
+Used Spring Transactions in the application and spring beans to develop Session beans for the business logic.
+Designed and developed Application based on Spring Framework, Spring MVC and spring templates, Used Spring Framework for Dependency Injection and integrated with Hibernate DAOs for ORM mapping.  
+Composed and executed MongoDB documentscripts to insert, update NoSQL database, automating data changes.
+Used NoSQL MongoDB databaseto provide recommendations on Performance tuning for applications.
+Used Hibernate framework in persistence layer for mapping an object-oriented domain model to a relational database.
+Worked on Pivotal Cloud Foundry to host Application which used to role-based access controls, applying, enforcing roles and permissions to ensure that users can only view and affect the spaces for which they have been granted access.
+Re-architect monolithic service into Micro services based architecture using spring boot and pivotal cloud foundry.
+Developed EJS access layer and components using JPA/Hibernate frameworks implementations for object persistence to Derby database for mock domain and for real time domains.  
+Used Selenium Data Driven framework for testing the application and integrating it withMaven [Build Management Tool], TestNG [Unit Testing tool] and Jenkins [Continuous Integration Tool] for continuous delivery pipeline.
+Created and configured management reports and dashboard using Splunk by identifying data patterns, metrics. 
+Implemented the logging using log4j framework which is used to log both User Interface and Domain Level Messages. 
+
+Environment: Java, J2EE,JDK 1.6, RCP, WebLogic, AWS SDK, Ext JS,  Git, Swing, JFC, Perl,Sybase,  Spring 4.x,  AWS SNS/SQS, Hibernate 4.x,Core Java, SOAP/Rest, Web Services, JavaScript, UML, Web Services, HTML5, CSS, SASS, RAD 7,WAS 8 WSDL, JIRA 5.x/6.x, JAXB, Linux, JAX-WS,JAX RPC, JMS, JSF,UNIX, AKKA, NOSQL(MongoDB), Angular JS, NodeJs, BackboneJS, Scala IDE, JBoss 3.0, ReactJS, AJAX,ApacheJMeter, JQuery, JUnit, Maven, Oracle 10g.
+
+Client:	American Express, Phoenix, AZ.					March 2013 – April 2014
+Role: Senior Java Developer
+Description: The State Farm hosted enrollment website for premier insurance clients that will allow a user to establish an account that will allow registration of multiple cards to one username and password. They will be able to receive the alerts via SMS, email or both when their card is used in a country that is determined to be outside their home country. The enrollment web service utilizes the inControl platform to deliver the alerts. In addition the existing Common Registration Web Service and Banknet Bridge services are utilized.
+
+Responsibilities:
+
+J2EE deployment on WebLogic/JBOSS servers - QA & Staging 
+Troubleshooting issues that may occur during the test cycle (Functional & load test) for the J2EE applications on Struts and Spring framework running on WebLogic/JBOSS servers. 
+Developed services that are reusable and interoperable, based on SOAP, WSDL, JAXWS, JAXRPC Web services.
+Well versed with core Java concepts like Collections, Swing, Serialization and Servlets & JSP. 
+Provided installation, configuration & maintenance of pre-prod and production Cloud environments including services such as Tomcat, Apache, Jetty, MongoDB, MySQL, and Jira. 
+Developed POJO objects and used Hibernate as the Object-Relational Mapping (ORM) tool to access the persistent data from SQL Server. 
+Hands-on writing Stored Procedures, functions, triggers, DDL, DML SQL queries. Experience in writing SQL, PL/SQL programming and SQL Loader. 
+Worked on Hibernate object relational mapping according to database schema. 
+Did load testing of SOAP Web Services using SOAP UIand Apache JMeter tools. 
+Developed a GUI to help to read the logs generated by the scripts, the logs were saved in MongoDB, the GUI was created using flask, D3, jQuery table sorter. 
+Implemented Internationalization using Spring MVC Interceptors and spring core modules.
+Worked on Spring security, form based authentication with Cross-Site Request Forgery CSRF token and secured REST endpoints with HTTP Basic authentication
+Implemented the MVC architecture using Backbone.js, NodeJs and Angular.js, ReactJS. 
+Used Spring Validation framework to implement the server side validations and used Ext JS AJAX to get the data from the server asynchronously by using JSON objects. 
+Effective use of data structures and algorithms to solve complex problems, reducing time complexity and memory usage.
+Delivered mobile app for book reading capability with HTML5 Sencha and online services with Flash/Flex.
+ Technology leadership for the direction of the Cloud based application using Node.JS, PDFJS,MongoDB and MS SQL Server integrating to a proprietary framework. 
+Used JMS (Java Mailing Service) API to mail notifications upon the success or failure when the backend processes are completed and also to send mail notifications regarding any system related 
+problems. 
+Defined collections to store data in MongoDB.  
+ Developed Pl-Sql store procedures to convert the data from Oracle to MongoDB. 
+Developed user interface using JSP with JavaBeans, JSTL and Custom Tag Libraries, JS, CSS, JQuery, Node.js, HTML, SASS and Ajax to speed the application. 
+Prepared and presented UNIX production and implementation schedules to the Project Manager and client. 
+Wrote PL/SQL Queries, stored procedures, triggers and prepared statements. 
+Responsible for developing the connection pooling for FileNet Server implementing spring framework concepts such as Transaction management and DAO support. 
+National level complex problem-solving competition, using JAVA, Data Structures and Algorithms. 
+ Built Web pages those are more user-interactive using jQuerypluginsfor Drag and Drop,jqValidator,AutoComplete, AJAX, JSON, Angular JS, and Node.JS. 
+Implemented Screen Navigation using JQuery and Spring MVC. 
+Developed Business components using Java Objects, Core Java, Multithreading, Servlets, and JSP. 
+Involved in creating dynamic web site design and programming using HTML5, CSS3, JavaScript and jQuery. 
+Involved in generating JAXB classes from schema files. 
+ Developed custom directives, Factories and Services in AngularJS.
+Developed cross browser compatibility code using CSS and jQuery.
+Built HTML5 and CSS system for controlling text display issues cross-platform and cross browser.
+Develop batch processes for financial reporting applications and modules using Perl and Korn shell scripts on Oracle database, with partitions and sub-partitions.
+Used the DBI/DBD module forSybase connection from PERL scripts
+Developed Test classes using JUnit and Easy Mock and test coverage using EMMA plug-in. 
+Worked with Splunk to logging and analyzing defects status. 
+Knowledge on Jenkins builds. 
+
+Environment: Java , J2EE, JDK 1.5, UNIX, JBoss 3.0,Spring core, MongoDB, JMeter, Swing, Hibernate, Jetty, Core java,  Perl,Sybase, Spring MVC, Hibernate, SOAP/Rest Web services, FileNet, Ajax, XML, jQuery, Ext JS, HTML5, CSS, TC Server, SASS, JAX-B, SVN, Maven, Jenkins, Splunk, SFX, Splunk, Angular JS, ReactJS, NodeJs, Ext JS, MAX, SEED. Oracle.
+
+
+Client:State Farm,Bloomington, Illinois						May 2012 – Jan 2013
+Role: Sr. Java Developer
+
+Description: First Citizens Bank is one of the largest banking institutions in the world. Bank offers various financial and banking services to its customers. Worked on application named Access portal. It is a part of online banking that allows a customer to view quick summary of transactions and account details. It also shows mutual funds associated with account
+
+Responsibilities:
+
+Involved in the design and development phases of Agile Software Development. 
+Analyzed current Mainframe system and designed new GUI screens. 
+Developed the application using 3 Tier Architecture i.e. Presentation, Business and Data Integration layers in accordance with the customer/client standards. 
+Automate report generation in MongoDB using JavaScript, shell scripting, java. 
+Played a vital role in Scala framework for web based applications 
+Used FileNet for Content Management and for streamlining Business Processes. 
+Created Responsive Layouts for multiple devices and platforms using foundation framework. 
+Implemented printable chart report using HTML5, CSS3 and jQuery. 
+Applied JavaScript for client side form validation. 
+Worked on UNIX, LINUX to move the project into production environment.
+Created Managed Beans for handling JSF pages and include logic for processing of the data on the page. 
+Used Object/Relational mapping tool Hibernate to achieve object to database table persistency.
+Worked with Core Java to develop automated solutions to include web interfaces using HTML, CSS, JavaScript and Web services. 
+Created simple user interface for application's configuration system using MVC design patterns and swing framework. 
+Developed web GUI involving HTML, Node JS, Java Script under MVC architecture. 
+Creation of WebLogic domains and setup Admin & Managed servers for JAVA/J2EE applications on Non Production and Production environments. 
+Involved in the configuration of Spring Framework and Hibernate mapping tool. 
+ Monitoring WebLogic/JBoss Server health and security. 
+ Creation of Connection Pools, Data Sources in WebLogic console.
+Implemented Hibernate for Database Transactions on DB2. 
+Involved in configuring hibernate to access database and retrieve data from the database 
+Written Web Services (JAX-WS) for external system via SOAP/HTTP call. 
+Used Log4j framework to log/track application. 
+ Involved in developing SQL queries, stored procedures, and functions. 
+Creating and updating existing build scripts using Ant for deployment Tested and implemented/deployed application on WAS 6.1 server. 
+Used Rational Clear Case for Version Control. 
+
+Environment: FileNet, IBM RAD 6.0, Scala, Java 1.5, JSP, Servlets, Core Java, Spring, Swing, Hibernate, JSF, ICE Faces, Hibernate, HTML , CSS, JavaScript, NodeJs, UNIX, Web Services- SOAP, WAS 6.1, XML, IBM WebSphere 6.1, Rational Clear Case, Log 4j, IBM DB2.
+
+Client:	Green Point Bank, New York, NY					January 2010– April 2012
+Role: Java Developer
+Description: Green Point Financial Corp. is a bank holding company whose bank subsidiary, Green Point Bank, had 73 branches in the New York City metropolitan area in 1998. Through its mortgage lending subsidiary, the company was the national lender in no-documentation residential mortgages. ​
+
+Responsibilities:
+
+Mavenized the existing applications using Maven tool. 
+Added the required jar files to the application as dependencies to the pom.XML file. 
+Used JSF & Struts frameworks to interact with the front end. 
+Utilized Swing/JFC framework to develop client side components. 
+Developed J2EE components on Eclipse IDE. 
+Created Multi Excel Comparator tool for client Suisse Bank using JAVA and effective use of data structures and algorithms, it has successfully saved 520$/ person for a month. 
+Developed a new CR screen from the existing screen for the LTL loads (Low Truck Load) using JSF. 
+Used spring framework configuration files to manage objects and to achieve dependency injection. 
+Implemented cross cutting concerns like logging and monitoring mechanism using Spring AOP. 
+Implemented SOA architecture with web services using SOAP, WSDL, UDDI and XML. 
+Made screen changes to the existing screen for the LTL (Low Truck Load) Accessories using Struts. 
+Developed desktop interface using Java Swing for maintaining and tracking products. 
+Used JAX-WS to access the external web services, get the xml response and convert it back to java objects.
+Developed the application using Eclipse IDE and worked under Agile Environment.
+Working with Web admin and the admin team to configure the application on development, training, test and stress environments (Web logic server). 
+Build PL\SQL functions, stored procedures, views and configured Oracle Database 11g with JNDI data source with connection pooling enabled. 
+Used Hibernate based persistence classes at data access tier.
+Used Spring Quartz timer to load the DIM data base with device battery information on regular intervals of time.
+Adopted J2EE design patterns like Service Locator, Session Facade and Singleton. 
+Worked on Spring Core layer, Spring ORM, Spring AOP in developing the application components 
+Modified web pages using JSP and Used Struts Validation Framework for form input validation. 
+Created the WSDL and used Apache Axis 2.0 for publishing the WSDL. 
+Creating PDF files for storing the data required for module. 
+Used custom components using JSTL tags and Tag libraries implementing struts. 
+Used Web Logic server for deploying the war files. 
+Used Toad for the DB2 database changes. 
+
+Environment:Java  , J2EE, JSF, Hibernate,  Struts, Spring, Swing/JFC, JSP, HTML, XML, Web Logic, iText, DB2, Eclipse IDE, SOAP, Maven, JSTL, TOAD, DB2, Web Logic Server, WSDL, JAX-WS, Apache Axis.
+
+Client:	Aircel, Chennai, India					                                                     June 2007– October 2009
+Role: Java Developer
+Description:Aircel is one of India’s leading innovative mobile service providers. As a young data led telecom player, Aircel has constantly been at the helm of introducing innovative and value for money products and services for its customers, which are industry firsts, be it the Aircel Pocket Internet, taking the first step in making 3G affordable for the masses, being the first telecom player to introduce Facebook Voice Updates on Aircel, and many more.
+ Responsibilities 
+
+Involved in gathering and analyzing system requirements. 
+Considerable use of multithreaded application in the C++ software using posix, STL.
+Played key role in the high-level design for the implementation of this application. 
+Developed the Training and Appraisal modules using Java, JSP, Servlets and JavaScript. 
+Developed UI using java swings. 
+Worked extensively on Mobile Management Entity of Evolved Packet Core network which was developed using C++
+ Created tables, views, Types, triggers, complex join queries, stored procedures, and functions and modifications to existing database structure as required for addition of new features 
+Involved in Designing the Database Schema and writing the complex SQL queries. 
+Involved in Code reviews for other modules developed by peers. 
+Designing and establishing the process and mapping the functional requirement to the workflow process. 
+Accessed stored procedures and functions using JDBC Callable statements.  
+Executed and coordinated the installation for the project. 
+Worked on web-based reporting system with HTML, JavaScript and JSP.  
+
+Environment:Java, JDK 1.3, C,C++,J2EE (JSP, Servlets, EJB), JDBC, Apache Tomcat, oracle, HTML, DHTML, SQL and JUnit.
+
+
+

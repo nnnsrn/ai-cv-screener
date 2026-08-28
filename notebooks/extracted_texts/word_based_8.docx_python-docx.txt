@@ -1,0 +1,145 @@
+
+
+
+Ranjan Kumar Verma (PMP, CSM)
+Project Manager/Scrum Master
+Place: Houston, TX
+EXECUTIVE SUMMMARY	
+Versatile and highly competent IT Project Manager / Scrum Master professional possessing more than 14 years of experience in managing technology projects, focused on quality delivery within specified timeline and budget.  Demonstrated abilities to increase effectiveness, developing strategies for managing the product line and launching project. Hands-on experience in business requirement gathering, business process flow, business process modeling, high level designing combined with deep understanding of the intersection between technology solutions, business and operational needs. Possess solid management skills and the ability to analyze issues, devise continuous process improvements and incorporate initiatives to increase efficiency, streamline operations and decrease overall expenses and risk with minimal resources.  
+
+
+EDUCATION & CERTIFICATIONS
+Bachelor of Engineering (B.E.) in Electronics & Communication, from MIT Manipal, INDIA
+Project Management Professional (PMP) – PMP® Certification # License Number:  1820042
+Certified Scrum Master (CSM) – License # 000466935
+
+
+CORE COMPETENCIES
+
+
+
+
+
+
+
+KNOWLEDGE AREAS
+Leadership: Influence and motivate, Collaboration, Team Building, Commitment
+Project/Program/Portfolio Management: PMBOK, WATERFALL, AGILE, SCRUM, ITERATIVE, INCREMENTAL
+Application Development / Support: Incident Management, Release Management, Change Management, Production Support practices.
+
+
+TECHNICAL SKILLS
+Management Tools: MS Project, Navigator, Mercury, Mingle, MS Visio, JIRA, Confluence, Team Foundation Server (TFS), MS Office, Adobe Acrobat, Power Point, Eclipse, Toad.
+Designing Tools: Rational Rose, Star UML, ERWin, Mindjet Manager, Freemind
+Domain: Oil & gas, Banking and Finance
+Development Platform: 
+Software & Languages Java, JSP, Servlet, EJB, JMS, HTML, DHTML, Vignette, Eclipse, Workbench, Clear Case, Clear Quest, XML Spy, Endeca, WebLogic, WebSphere, Tomcat
+Database: Microsoft SQL Server, Oracle, MS-Access
+Content Management: OpenText, SharePoint, Tridion
+Quality Assurance: Release management technique, Change management, Build management
+Operating System: Windows 10 / 7/ NT/ XP/ 9X
+
+
+
+
+PROFESSIONAL EXPERIENCE
+
+Chevron Corporation Houston, TX	                                                               Mar 2012 – Present
+Project Manager / Business Analyst
+
+Responsibilities:
+Manage Software applications of the esteemed Client in PRC (Project Resource Company) space and responsible for the overall projects delivery.
+Currently managing multiple projects concurrently scheduled for implementation at different timelines
+Determine resource requirements and procure resources; managed contract project resources.
+Create project schedule, maintains budget plan, communication plan, tracking & reporting variables
+Define and direct project goals, objectives, critical success factors, milestones, and risk
+Conduct what-if analysis and come up with smart decisions to manage the projects effectively
+Prepare project plan and coordination with teams at onsite and offshore, as well as customer research to coordinate future releases
+Manage a team to deliver multiple projects with critical timelines, dependencies and complex compliance requirements.
+Plan, track and mitigate risks so that projects are completed on time and within budget and maintained the scope
+Interface with developers to identify and resolve technical issues and bugs in the software to validate end-user requirements.
+Balance resource capacity and track progress. 
+Provide regular project progress status to all stakeholders
+Negotiate service contracts and application agreements for project support. 
+Provide management with reporting on renewals, cost saving opportunities, and acquisition alternatives
+Communicate to all stakeholders on a timely basis (include Senior or Executive Level Management).
+Participate and contribute to CAB meetings
+
+Fitch Ratings Chicago, IL	                                                               Jul 2011 – Feb 2012
+Scrum Master / Project Manager
+
+Responsibilities:
+Interacted with the Product Owners to understand the business flow and gather their business requirements. 
+Worked on Agile Methodology to collaborate with SCRUM team members to work on Sprint deliverables. 
+Experienced in using Agile methodologies in Software Development Projects, strong facilitator and Scrum Master for software releases. Facilitator of daily Scrum meetings for Planning, Scheduling, Execution, QA and UAT Testing, training and Software release.
+Wrote functional and technical stories using Mingle and get business approval
+Created the high level Use Case Diagram, Sequence Diagram and Class Diagram using Star UML
+Allocated task to the Onsite and Offshore team at India and track them on daily standup call
+Performed Integration testing and prepared release document
+Performed Onsite / Offshore coordination
+Managed forecasting, negotiating scheduling, staffing, coordination, budgeting and provide estimate to business team
+Managed stakeholder communication
+Participated and contributed to release management
+
+Larsen & Toubro Infotech Ltd (South Africa and India)	         [Sep 2007 – Jun 2011] / [Apr 2006 – Feb 2007]
+Project Leader / Senior Software Engineer
+
+Responsibilities:
+Analyzed business requirements, and define the Object-Oriented solution using UML diagrams like Sequence diagram, class diagram.
+ Reviewed Software Requirement Specification to identify and mitigate gaps between business requirement and technical capabilities 
+Developed IT application, user test plan instructions, and participated in UAT testing
+Created High and Low-Level Design for various modules.
+Developed and implement a world class application system with rich content and value-added services for customers to integrate with other external tools
+Wrote Junit test cases and performed Unit & Integration testing
+Ensured all requirements are met and the system performed as expected
+Provided strong emphasis on Vendor Communication and resolving complicated issues
+Post production support
+Supported management in data gathering for regulatory and third-party reviews
+Prepared regular Status Reports using Excel spread sheets/ charts and communicate those to upper management.
+
+Atos Origin	Feb 2007 – Sep 2007
+Systems Analyst
+
+Responsibilities:
+Facilitated and gathered requirements and created Use Cases by extensive requirement gathering sessions
+Utilized Software Development Life Cycle (SDLC) tools, business methodologies, operational research techniques to develop customize applications and database program
+Established work priorities & procedures to ensure that daily work flow requirements and project deadlines are met.
+Developed detail work plans, schedules, project estimates, resource plans, and status reports for all business resources and end users
+Developed IT application, user test plan instructions and participate in UAT testing
+Estimated schedule and developed successful implementation of projects
+Key project lead for assigned projects worked closely with the Senior Project Manager and department contact lead.
+Handled the project from original concept to final implementation using SDLC
+Mitigated risk factors through careful analysis of project milestones and financial data
+Prepared regular Status Reports using Excel spread sheets/ charts and communicated those to upper management.
+Conducted technical interview and part of onboarding interview panel
+
+
+
+Covansys India Pvt. Ltd	Jun 2005 – Apr 2006
+Senior Software Engineer
+
+Responsibilities:
+Gathered business requirements from the customers and created design document by extensive requirement gathering sessions
+Worked extensively with the QA team for designing Test Plan and Test Cases for the User Acceptance testing (UAT).
+Created Use Case specifications, data modeling using UML techniques, business flow diagrams, class and sequence diagram using Rational Rose, so that developers and other stakeholders can understand business process according to their perspective with possible alternate scenarios.
+Conducted impact analysis on changes received from the customer, re-estimating the impact in effort & schedule & related issues redressal.
+Developed IT applications and wrote Junit test cases
+Performed Unit, Integration and Smoke testing
+Anticipated and managed change effectively in rapidly evolving business environment
+Successfully implemented project by effective project planning, SDLC management, UAT and system rollout management
+
+CrimsonLogic India Pvt. Ltd	May 2004 – Jun 2005
+System Analyst
+
+Responsibilities:
+Developed customized IED Reuse Engine tool for EDCS Panama and CMR Australia business units
+Deployed applications on to the production environment through FTP process
+Acted as Software Configuration Lead (SCL) to ensure the team follows all the processes and documentation needed for a CMM level 5 companies 
+
+Anipra Communication Pvt. Ltd	     [ Jun 2002 – Dec 2003] / [Jun 2001 – Mar 2002]
+Senior Software Engineer
+
+Responsibilities:
+Developed IT projects within the scope, time and cost
+Performed Unit & Integration testing
+Handled release and change management process for the application.

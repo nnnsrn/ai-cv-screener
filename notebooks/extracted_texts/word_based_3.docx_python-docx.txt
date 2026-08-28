@@ -1,0 +1,171 @@
+Name: Mohid
+Phone: 857-228-4961								      
+Email: mohid0089300@gmail.com
+
+                                                                                                                                                                                     Java Developer
+PROFESSIONAL SUMMARY:
+Over 8 years of software industry working experience in domains like Retail, Insurance, Airlines in analysis, design, testing, development, documentation with various JAVA/J2EE technologies.
+Hands on experience in using web application frameworks including Apache Struts 1.x and 2.x, Spring 3.x and Hibernate 3.x and familiarity with build tools such as Maven, GRADLE.
+Rich work experience in Open Source frameworks like Struts 1.2, Struts 2.0, Spring and implemented spring JDBC Template for handling database access.
+Experienced with J2EE standard compatible Application Servers including WebLogic, IBM Web sphere, Apache Tomcat Deployment Process and Integration.
+Implementing automated Testing Platforms and Unit Tests and Proficient understanding of Code Versioning tools, such as GIT.
+Working knowledge in Relational Database Systems like Oracle 9i and fair exposure to PL/SQL programming.
+Expertise in Angular JS, Backbone JS, Node JS, Mongo DB and Spring Boot Framework.
+Good UI Skills with Working knowledge of HTML5, Bootstrap, JQuery, JS, CSS3
+Hands-on experience in developing Web services like SOAP and Rest Web Services.
+Expertise in Client / Server and application development using Java, J2ee technologies.
+Expertise in Tools: Eclipse, Rational Application Developer RAD
+Hands on experience in advanced web technologies like Ajax, Hibernate, Angular JS.
+Experience working in a Cloud environment – developing and deploying in AWS cloud
+Experience using Hibernate for mapping Java classes with database and using Hibernate query language(HQL).
+Developed the Applications using J2EE Design Patterns such as Model-View-controller (MVC), Singleton, Session Façade, Business Delegate, and Service Locator.
+Expertise in web development with HTML, XML, JavaScript, Perl, JSF and AJAX.
+Spearheaded the design and development of SOAP based Web Services.
+Solid recent experience of developing and designing RESTful APIs.
+Design experience on various Databases Oracle, SQL SERVER and MySQL.
+Used XML parsers for to parse the data during web service calls for SOAP and Restful.
+Participated in Functional discussions and prepared detail design documents for document rewriting module of the application.
+Worked on business logic and business objects of Payment module. 
+Works with delivery team and project teams under limited supervision.
+SKILL SET:
+PROGRAMMING LANGUAGES-	                      JAVA, C/C++, PL/SQL, COBOL
+JAVA TECHNOLOGIES-		                     J2EE, SERVLETS, JSP, EJB, JDBC, JMS
+APPLICATION SERVERS-	                                 WEBSPHERE, WEBLOGIC, JBOSS
+WEB SERVERS-			                     TOMCAT 4.0/5.0
+FRAME WORKS- 	         	                                 STRUTS, SPRING, HIBERNATE, JUNIT 3.8
+DATABASES-			                                 ORACLE 8I/9I/10G,11G, DB2, TOP LINK
+IDE’S-             		                                             NET BEANS, ECLIPSE, STS
+SCRIPTING LANGUAGES-	                                JAVASCRIPT, SHELL & PERL SCRIPTING.
+METHODOLOGY-		                                AGILE, WATERFALL
+
+PROFESSIONAL EXPERIENCE:
+Client: TUFTS HEALTH PLAN, Watertown, MA 				   	    Oct 16 to Current 
+Role: Java Developer
+
+Project Description: As a Java Developer, I was involved in developing a web based application compliant with healthcare management system, designed to automate tasks like Patient management, Claims Processing, Accounts receivable management & collections, Reporting, Document creation & management in compliance to HIPAA standards. It also deals with the System Related Activities like adding users / deleting users. It has Built-in flexibility for allocating access rights to different users depending on their roles.
+
+Responsibilities:
+Implemented J2EE web-based system using the concrete principles of Struts; Tiles laid down by Java APIs several design patterns such as Struts framework, J2EE Business Delegate, and Data Base.
+Participated in discussions to finalize the architecture of the application and prepared detailed design documents using Java Class and Web Sequence Diagrams.
+Using Spring MVC frame work, configuring the action path elements and redirecting the requests to the application
+Extensively used Core Java features including collection framework, exception handling, generics and annotation in the coding and also used GOF Design Patterns like Singleton, Factory Patterns to make the code more robust and easier to maintain.
+involved in various modules to troubleshoot the existing problems and provide the solutions to the required functionalities.
+Developed Session Beans to invoke JDBC services that do database lookups for dropdowns and invoke backend entity beans. Also, implemented LDAP (Lightweight Directory Access Protocol) for Single Sign-on.
+Deployed and tested the application using Web logic application server.
+Performed various Linux system admin tasks including hardware related problems.
+Involved in coding, code reviews, JUnit testing, Prepared and executed Unit Test Cases.
+configured the struts configuration file to map the Action Forms with the Form Beans and Action Classes with the Actions.
+Involved in code review and bug fixing of the application; also involved in deploying the application files to the machine using Web Sphere Application Server.
+Providing navigation rules in the XML file for managed beans and defining them in the configuration files.
+Integration of application with JBOSS 4.2.
+Environment: Java, J2EE (JSP, Servlet), Struts 2.0,Linux , Oracle 11G, HTML, LDAP, JavaScript, Web Logic Server 10.3.4, Oracle, Log4j, JDBC, JDK 1.5, JUNIT 3.8,
+
+Client: Virgin America, Burlingame, CA					       June ‘14 to September ‘16
+Role: Java Developer
+
+Project Description: Our Project is a fully integrated web-based project whose emphasis is to render the services to the Client Applications in the organization. There are client applications like Print Services, which process a specific functionality and conversions to the organizational accepted formats which can be only accessible internally. To manage these applications and perform certain business specific logics, we are using Spring, hibernate and Oracle as db. Apart we have implemented Angular JS for the front end for better implementation.
+
+Responsibilities: 
+As a Developer, responsible to handle full stack application development with respect to the project awareness among all the team members in development using advanced Java technologies.
+Supported various existing tools developed for application teams.
+Implemented the Project structure based on Spring MVC pattern using spring boot.
+Used Spring Core Annotations for Dependency Injection Spring DI and Spring MVC for REST API s and Spring Boot for micro-services.
+Developed presentation layers using Angular JS, Backbone JS, AJAX, JSP, java script, HTML and XML.
+Created Payment Gateways as standards of  PCI and also used HTTP protocols
+Implemented AWS - Implementation and configuration of the above components for Web application development
+Knowledge in developing dashboards and web applications using web technologies. 
+Working knowledge of UI development in JavaScript, HTML5 and CSS. 
+Experience in using modern JavaScript frameworks such as JQuery or Angular.
+Experience in handling applications hosted in Amazon Web Services AWS
+Used Annotations and Spring features for applying business logic and interact with the other layers in the application.
+Unit Testing/Integration Testing, JUnit 4.0, Debugging and Implementation is performed at accurate intervals before deployment
+Log4J and logback files are configured for monitoring the error logs.
+Sound Knowledge in implementing design patterns like MVC (Model-View-Controller)
+Implemented Database Updates / Verification used in our project
+Extensively involved in portal related technical/functional sessions and performed the functionalities as well
+Usage of Clear Case, Accurev as a Version Control.
+Worked in Agile Methodology and involved in the project discussions.
+Extensively Worked on SQL and stored Procedures and Functions.
+Responsible in Enhancement of the portal based on the user requirements.
+
+Environment: Java, J2EE (JSP, Servlet), AJAX, Struts 2.0, Spring Boot 1.1.5, Oracle 11G, HTML, JQuery, CSS, XML, JavaScript, Web Logic Server 10.3.4, Oracle Workshop for WebLogic, Log4j, JDBC, JDK 1.5, JUNIT 3.8, Mockito.
+
+Client: Nordstrom, Seattle, WA 							       Apr ’12 to May ‘14
+Role: Java Developer
+
+Project Description: Our Project is a migration project which was implemented in Mongo DB and then converted into top Link. Our project mainly focuses in operating the systems and its departments with respect to employees and its resources used within the organization. However, as our DB has lots of data to store and proposed for a licenced version of DB, our project scope has been migrated to top Link. To Integrate the services, SOAP Web services are used.
+Responsibilities: 
+
+As a Developer, Participated in functional discussions and responsible in detail design documents preparations for various modules of the application.
+Usage of Toad as the Oracle developer tool to access the Oracle 11g database.
+Developed the business domain layer using Java, J2EE, JDBC and used DAO, Singleton.
+Experience in handling SOAP and Rest Web services
+Used Oracle Top Link Workbench as a ORM tool for mapping POJO’s to Database tables
+Provided technical guidance to business analysts and Systems analyst, gather the requirements and convert technical specifications for developers to start.
+Involved in integrating Struts 2.x and Spring boot.
+Made sure communication between devices and middle/enterprise servers took place utilizing web protocols and data packages such as HTTP, XML and JSON
+Worked specifically on Business Layers in the application to implement business logic as per the requirements.
+Prepared technical artifacts including UML Class diagrams, Sequence diagrams etc., using Rational Rose and other compatible tools.
+Developed dynamic web content using JSF 2.0, JavaBeans, XHTML, JavaScript and Custom Tags.
+Developed presentation layers using JSP, velocity templates, HTML and JavaScript.
+Created server side validations using struts validator framework.
+Usage of MVC components, implemented event handling using Java, JSF, AJAX components and JavaScript for the multi-tier application.
+Responsible for implementing JSF Converters to handle formatting and localization and configured the faces-config.xml to create a web application navigation rule.
+Implemented Hibernate as an ORM tool and created the connection pool and setup required environment to map the tables and classes with Oracle RDBMS.
+Implemented spring JDBC Template for handling database access.
+Participated in functional discussions and prepared detail design documents for document rewriting module of the application.
+Worked as a backend application developer using Java and XML technologies.
+Worked on UNIX servers for building and exploring log files in different application environments.
+Participated in code review meetings to achieve coding standard compliance.
+Performed extensive Unit Testing of the application. 
+Prepared project documentation, status reporting and presentation.
+Participated in code review meetings to achieve coding standard compliance.
+Involved in creating test plans and test cases for the system. 
+Performed extensive Unit Testing of the application. 
+Written and tested regression test cases for the new functionalities developed for the release.
+
+Environment: UNIX, J2EE, Java Beans, Linux, JDK 1.7, SOAP, JSP, Struts 2.x, Spring boot JavaScript, Tiles, HTML, DHTML, XML, XSLT, Eclipse IDE, SOAP, WebLogic application server, Oracle 10g.
+
+Client: Noridian Mutual Company, Fargo, ND   				     	    Sep ’11 to Mar ‘12                                Role: Java Developer
+
+Project Description: Our Organization has internal projects resource sharing and few mitigating the same. To distinguish the usage of resources, our project builds a specific structure where clear separation of the internal functionalities and configured and our application holds the responsibilities of routing the required events and operations to the specific application to perform functionality. To implement the same, we have used EJB, Hibernate and Oracle database.
+
+Responsibilities:
+
+As a Developer, involved in the entire (SDLC) life cycle of the project right from the designing the project to implementation.  
+Involved in designing and implemented tables, functions, stored procedures and triggers in SQL Server 2005.
+Engaged in writing the SQL queries, Stored Procedures, Functions, and Views.
+Performed few upgrades on JBOSS Server as per the need of requirements and handled few issues relating while upgrading.
+Wrote JavaScript client side validations for user account information based on their business rules.
+Developed Entity Beans and Session Beans to implement business logic for various product transportation and distribution over different areas.
+Created triggers to keep track of changes of tables when changes are made.
+Responsible for Configuring the Message Driven Beans (MDB) for messaging to different clients and agents who are registered with the system.
+Experience in handling final builds, deployments and management using ANT/ MAVEN scripts to customize EAR, WAR and JAR files and the application is deployed on Web Sphere server.3
+Prepared Technical Design document and User Documentation. 
+Participated in code review meetings with development team.
+Environment: J2EE, Java, JDK 1.6, Hibernate, JSP, Struts framework 2.0, Restful, Oracle 10g, HTML, XHTML, XML, XSLT, UML, Rational Rose, ANT 1.5.3
+Client: Noridian Mutual Company, Fargo, ND   				     	    August ’10 to June ‘11                               Role: Java Developer
+
+
+Description: Project is a web-based application where a customer can get necessary and speedy information about different product models available. Customers can place new orders, view previous orders or cancel existing orders. 
+
+Responsibilities: 
+Implemented the project using JSP and Servlets based tag libraries. 
+Conducted client side validations using JavaScript. 
+Used Core java and object-oriented concepts.
+Coded JDBC calls in the Servlets to access the Oracle database tables. 
+Generate SQL Scripts to update the parsed message into Database. 
+Designed and coded the java class that will handle errors and will log the errors in a file. 
+Used Data Access Object Design Pattern (DAO) for data access functionality. 
+Deployed the application on JBoss Application server. 
+Involved in creating User Authentication page using JavaServlets. 
+Developed a distributed web application and rich client for maintenance of a database. The back end is
+written in and Java using the Jetty web server, Java servlets and MS-SQL Server.
+ Used JavaScript and Prime faces 2.2.1 to develop the front end for the Application.
+Involved in the Maintenance and Support of the System. 
+Responsible for Integration, Unit Testing, System Testing and stress testing for all the phases of project.
+
+
+
+
+ 

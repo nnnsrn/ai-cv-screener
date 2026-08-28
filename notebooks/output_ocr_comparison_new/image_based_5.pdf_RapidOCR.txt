@@ -1,0 +1,40 @@
+ROBERT SMITH
+Senior.NetDeveloper
+Phone:(0123)-456-7891Email: infogqwikresume.com1Website:gwikresumc.com
+SUMMARY
+SeniorNetDeveloperwithS+years of experience in designing and developing
+collaboralivesolutionsusingvariousMicrosoft Technologies.Strongknowledge in
+SoftwareLife Cycle processand development methodologies with strongexpertise in
+buildingwindows andweb-basedsolutions.WorkedonADO.NETEntityFrameworkto
+associate with a database for CRUDoperalions,
+CORECOMPETENCIES
+NET,ASPASP.NET.C#,IS.INTERNETINFORMATIONSERVICES.JAVASCRIPT.WPF.
+Wcf
+PROFESSIONALEXPERIENCE
+Senlor.Net Developer
+Kelloggs-April2013-Present
+KeyDeliverables:
+Worked on sofiware development life cyclestartingfromrequirements gathering
+and perfoming object-orientedanalysis,design.and implementation and
+developingnewWCFservice interfacelayer.
+DesignedMVCdesign pattern for asp.Netapplicalion development using the
+ASP.NetMVCframework.
+Developed web servlces-for administrative services; configuration services, and
+pricing services.
+Worked on database modelingand database schemasand also created stored
+procedures in Sgl server 2008.
+web pages using master pages and CSS.
+Implemenied objeci-relational mapping using NHibernate and ORM tools
+Designed and developed user interfaces using ASP.NeLon Visual Studfo2008.
+Senior Net Developer
+ABCCorp-2010-2013
+KeyDeliverables:
+Responsible for planning and designing new software and web applications:
+Analyzed,tested,and assisted with the integrationof new applications
+Oversaw the documentaton ofall developmenl activlly.
+Trained non-technical personnel.Assisted with Lrackingperiormance metrics.
+Integrated theknowledgeof businessand functional prioritles.
+Acted as a key contributor in-a complex and crucial ervironment.
+Lead the teams or projects and shares expertise.
+2259 Oak Street,Old Forge,NewYork,13420
+Ths Free Resume Templates the copynight afwkresume.comUsnge Guidelines

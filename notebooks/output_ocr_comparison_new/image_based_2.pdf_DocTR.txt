@@ -1,0 +1,64 @@
+Jane Fisher
+.NET Developer
+Lightning-fast, exacting .NET developer with 2+ years of experience. Skilled in ASP.NET MVC,
+Personal Info
+and client-side web development. Seeking position at Citrix. As intern at BrainWild Global,
+worked on 10+ projects for SQL database design. Developed and maintained over 20 .NET
+Phone
+websites with 100% client satisfaction.
+757-646-1653
+E-mail
+Experience
+jane.q.fisher@gmail.com
+2017-11 -
+.NET Developer Intern
+Linkedin
+2020-03
+BrainWild Global
+linkedin.comfin/jane-q-fisher
+Worked in an Agile team of .NET developers for a fast-paced software
+Twitter
+development firm.
+tviter.comjaneqtisher
+Implemented a smoothing function into a client CAD tool that improved UX
+scores 25%.
+Skills
+Worked on 10+ SQL database design projects. Improved speed to complete
+Time management
+projects by 35% in 15 weeks.
+0000
+Developed and provided maintenance for 20+ .NET websites, using ASP.NET
+MVC, jQuery, HTML, and CSS. Achieved 100% client satisfaction and on-time
+Interpersonal skills
+completion.
+0000
+Created remote coding and testing environment with bash and Docker scripts.
+Teamwork
+2016-06 -
+Freelance .NET Developer
+2017-11
+Created five real-world eCommerce websites for various clients. One said,
+Communication
+"You've increased my revenue by 50% overnight."
+
+Created an iOS notes app that uses persistent data storage to archive notes.
+Programming
+App received 1,200+ downloads.
+à
+Education
+ASP.NET MVC
+00000
+2012
+Bachelor of Science in Software Engineering
+2016
+Stratford University
+Client-side web development
+Redesigned the school's alumni fundraising site with .NET. Increased alumni
+0000
+use 30%.
+SQL
+For senior project, trained 15 fellow students in ASP.NET MVC.
+C
+Additional Activities
+Developed NET site for Salt Coast Animal Shelter. Increased donations 22%.
+Avid surfer for fun and fitness.

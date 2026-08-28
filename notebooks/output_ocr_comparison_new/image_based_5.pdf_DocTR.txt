@@ -1,0 +1,41 @@
+ROBERT SMITH
+Senior .Net Developer
+Phone: (0123)-456-789 I Email: info@qwikresume.com I Website: gwikresume.com
+SUMMARY
+Senior Net Developer with 8+ years of experience in designing and developing
+collaborative solu tions using various Microsoft Technologies. Strong knowledge in
+Software Life Cycle process and development methodologies with strong expertise in
+building windows and web-based solutions. Worked on ADO.NET Entity Framework to
+associate with a database for CRUD operations.
+CORE COMPETENCIES
+NET, ASP. ASP.NET, CH, IIS. INTERNET INFORMATION SERVICES, JAVASCRIPT. WPF.
+Wef
+PROFESSIONAL EXPERIENCE
+Senior Net Developer
+Kelloggs a April 2013 - Present
+Key Deliverables:
+Worked onsoftware development life eyde starting from requirements gathering
+and perfoming object-oriented analysis, design, and implementation and
+developing new WCF service interface layer.
+Designed MVC design pattern for asp. Netapplication: development using the
+ASP.Net MVC framework.
+Developed web services for administrative services. contiguration services. and
+pricing services:
+Worked on database modeling and database schemas and also created stored
+procedures in sgL server 2008.
+Developed user controls using asp. Net and C# and used them dynamically in the
+web pages using master pages and CSS.
+Implemented abject-relational mapping using NHibernate and ORM tools:
+Designed and developed user interfaces using ASP,Neton Visual Studio 2008.
+Senior Net Developer
+ABC Corp - 2010 - 2013
+Key Deliverables:
+Responsible for planning and designing new software and web applications:
+Analyzed. tested, and assisted with the integration-of new applications:
+Oversaw the documentation of all development activily.
+Trainednon-technical personnel. Assisted with tracking performance metrics.
+Integrated the knowledge of business and functional prioritles.
+Acted as a key contributorin a complex and crucial environment.
+Lead the teams or projects and shares expertise.
+2259 Oak Street, Old Forge, New York, 13420
+o This Free Resume Template is the copynight ol guikresume.com Usage Guidelines

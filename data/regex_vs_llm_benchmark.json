@@ -1,0 +1,586 @@
+[
+  {
+    "id": "CV_01",
+    "category": "ACCOUNTANT",
+    "regex_seniority": "Senior",
+    "llm_seniority": "Senior",
+    "regex_gpa": null,
+    "llm_gpa": null,
+    "regex_skills": [
+      "Accounting",
+      "Accounts Payable",
+      "Excel",
+      "General Ledger",
+      "Payroll",
+      "Quickbooks",
+      "Reconciliation"
+    ],
+    "llm_skills": [
+      "Microsoft Excel",
+      "QuickBooks",
+      "Abila MIP Fund Accounting Software",
+      "Financial statement analysis",
+      "Account reconciliation",
+      "General ledger accounting",
+      "Payroll processing",
+      "Sales tax reporting",
+      "Bank reconciliations",
+      "Payroll tax reporting"
+    ],
+    "regex_time": 0.010178089141845703,
+    "llm_time": 19.512235403060913
+  },
+  {
+    "id": "CV_02",
+    "category": "ACCOUNTANT",
+    "regex_seniority": "Unknown",
+    "llm_seniority": "Senior",
+    "regex_gpa": null,
+    "llm_gpa": null,
+    "regex_skills": [
+      "Accounting",
+      "Accounts Payable",
+      "Excel",
+      "General Ledger",
+      "Payroll",
+      "Quickbooks"
+    ],
+    "llm_skills": [
+      "Quickbooks",
+      "JD Edwards",
+      "MAS90",
+      "KRONOS",
+      "Excel",
+      "Lotus",
+      "FRX",
+      "Internet Explorer",
+      "Netscape",
+      "Outlook"
+    ],
+    "regex_time": 0.007142543792724609,
+    "llm_time": 15.193585872650146
+  },
+  {
+    "id": "CV_03",
+    "category": "ACCOUNTANT",
+    "regex_seniority": "Senior",
+    "llm_seniority": "Senior",
+    "regex_gpa": null,
+    "llm_gpa": null,
+    "regex_skills": [
+      "Accounting",
+      "Accounts Payable",
+      "Auditing",
+      "General Ledger",
+      "Payroll",
+      "Reconciliation",
+      "Taxation"
+    ],
+    "llm_skills": [
+      "MS Office",
+      "Oracle",
+      "Tally",
+      "Adobe Photoshop",
+      "Adobe Illustrator",
+      "Video Editing",
+      "Audio Editing",
+      "Oracle 8I",
+      "Developer 2000",
+      "Windows"
+    ],
+    "regex_time": 0.009123802185058594,
+    "llm_time": 13.828997135162354
+  },
+  {
+    "id": "CV_04",
+    "category": "AGRICULTURE",
+    "regex_seniority": "Senior",
+    "llm_seniority": "Unknown",
+    "regex_gpa": 3.0,
+    "llm_gpa": null,
+    "regex_skills": [
+      "Cash Handling",
+      "Excel"
+    ],
+    "llm_skills": [
+      "Customer service",
+      "Conflict resolution",
+      "Typing (35 wpm)",
+      "Microsoft Software",
+      "Excel",
+      "POS systems",
+      "Social media (Twitter)",
+      "Data entry",
+      "Laboratory procedures",
+      "Event coordination"
+    ],
+    "regex_time": 0.014821052551269531,
+    "llm_time": 6.913844108581543
+  },
+  {
+    "id": "CV_05",
+    "category": "AGRICULTURE",
+    "regex_seniority": "Senior",
+    "llm_seniority": "Senior",
+    "regex_gpa": null,
+    "llm_gpa": null,
+    "regex_skills": [
+      "Excel",
+      "Livestock"
+    ],
+    "llm_skills": [
+      "ArcGIS",
+      "TAAMs",
+      "conservation planning",
+      "grazing management",
+      "noxious weed control",
+      "oil and gas right-of-way management",
+      "environmental mitigation",
+      "land use regulations",
+      "range unit management",
+      "AUM calculation"
+    ],
+    "regex_time": 0.021621227264404297,
+    "llm_time": 13.094396114349365
+  },
+  {
+    "id": "CV_06",
+    "category": "AGRICULTURE",
+    "regex_seniority": "Senior",
+    "llm_seniority": "Mid-Level",
+    "regex_gpa": null,
+    "llm_gpa": null,
+    "regex_skills": [
+      "Excel",
+      "Irrigation",
+      "Livestock"
+    ],
+    "llm_skills": [
+      "Microsoft Office (Word, Excel, PowerPoint)",
+      "Translation (English to Pashto/Dari)",
+      "Project Planning",
+      "Logical Framework Analysis",
+      "Capacity Building",
+      "Training Workshop Facilitation",
+      "Data Collection",
+      "Project Monitoring",
+      "Communication Skills",
+      "Business Development"
+    ],
+    "regex_time": 0.009949207305908203,
+    "llm_time": 11.713748931884766
+  },
+  {
+    "id": "CV_07",
+    "category": "AVIATION",
+    "regex_seniority": "Mid-Level",
+    "llm_seniority": "Senior",
+    "regex_gpa": 3.5,
+    "llm_gpa": 3.5,
+    "regex_skills": [
+      "Excel",
+      "Faa",
+      "Pilot",
+      "Recruitment",
+      "Risk Management"
+    ],
+    "llm_skills": [
+      "Statistical Analysis",
+      "SPSS",
+      "Excel",
+      "R",
+      "FAA Regulations",
+      "Crew Resource Management",
+      "Aviation Research",
+      "Data Processing",
+      "Safety Regulations Compliance",
+      "Human Factors in Aviation"
+    ],
+    "regex_time": 0.013064384460449219,
+    "llm_time": 8.713672161102295
+  },
+  {
+    "id": "CV_08",
+    "category": "AVIATION",
+    "regex_seniority": "Mid-Level",
+    "llm_seniority": "Unknown",
+    "regex_gpa": null,
+    "llm_gpa": null,
+    "regex_skills": [
+      "Budgeting",
+      "Training And Development"
+    ],
+    "llm_skills": [
+      "Freight operations",
+      "Materials transport",
+      "Skilled forklift operator",
+      "Cargo handling",
+      "Defensive driver training",
+      "Data management",
+      "Team management",
+      "Microsoft Office",
+      "Report creation",
+      "Storage procedures"
+    ],
+    "regex_time": 0.009346485137939453,
+    "llm_time": 16.45339560508728
+  },
+  {
+    "id": "CV_09",
+    "category": "AVIATION",
+    "regex_seniority": "Senior",
+    "llm_seniority": "Senior",
+    "regex_gpa": null,
+    "llm_gpa": null,
+    "regex_skills": [
+      "Java",
+      "System Administration"
+    ],
+    "llm_skills": [
+      "Windows",
+      "Windows Office Suites",
+      "Citrix",
+      "Active Directory",
+      "JIRA",
+      "Trello",
+      "Service Now ITSM"
+    ],
+    "regex_time": 0.009216547012329102,
+    "llm_time": 32.411458015441895
+  },
+  {
+    "id": "CV_10",
+    "category": "BANKING",
+    "regex_seniority": "Senior",
+    "llm_seniority": "Senior",
+    "regex_gpa": null,
+    "llm_gpa": null,
+    "regex_skills": [
+      "Accounting",
+      "Credit Analysis",
+      "Excel",
+      "Risk Management",
+      "Underwriting"
+    ],
+    "llm_skills": [
+      "Credit & financial analysis",
+      "Analytical problem solver",
+      "Excellent communicator",
+      "Action planning",
+      "Relationship management",
+      "Risk management",
+      "Strategic thinking",
+      "Deadline efficient",
+      "Detailed oriented",
+      "Excellent time management"
+    ],
+    "regex_time": 0.007610797882080078,
+    "llm_time": 6.931167364120483
+  },
+  {
+    "id": "CV_11",
+    "category": "BANKING",
+    "regex_seniority": "Senior",
+    "llm_seniority": "Entry-Level",
+    "regex_gpa": 3.46,
+    "llm_gpa": 3.46,
+    "regex_skills": [
+      "Forecasting",
+      "Machine Learning",
+      "Python",
+      "Risk Management",
+      "Sql"
+    ],
+    "llm_skills": [
+      "C/C++",
+      "Python",
+      "MATLAB",
+      "SQL",
+      "R",
+      "LUA",
+      "VBA",
+      "Supervised Learning",
+      "Unsupervised Learning",
+      "Deep Neural Networks"
+    ],
+    "regex_time": 0.005664825439453125,
+    "llm_time": 23.46571445465088
+  },
+  {
+    "id": "CV_12",
+    "category": "BANKING",
+    "regex_seniority": "Senior",
+    "llm_seniority": "Senior",
+    "regex_gpa": null,
+    "llm_gpa": null,
+    "regex_skills": [
+      "Commercial Banking"
+    ],
+    "llm_skills": [
+      "Strategic Planning/Management",
+      "Strong communication skills",
+      "Strong credit/financial analysis skills",
+      "Team builder/collaborator",
+      "Sales management",
+      "Negotiation skills",
+      "Strong multi-tasker",
+      "Project management",
+      "Planning/execution",
+      "Cross Functional leadership"
+    ],
+    "regex_time": 0.008626699447631836,
+    "llm_time": 6.483502626419067
+  },
+  {
+    "id": "CV_13",
+    "category": "FINANCE",
+    "regex_seniority": "Senior",
+    "llm_seniority": "Senior",
+    "regex_gpa": 3.9,
+    "llm_gpa": 3.9,
+    "regex_skills": [
+      "Accounting",
+      "Budgeting",
+      "Excel",
+      "Financial Reporting",
+      "Forecasting",
+      "General Ledger",
+      "Variance Analysis"
+    ],
+    "llm_skills": [
+      "Essbase",
+      "Excel",
+      "budgeting",
+      "forecasting",
+      "financial reporting",
+      "cost allocation",
+      "process improvement",
+      "yield analytics",
+      "financial modeling",
+      "expense reduction"
+    ],
+    "regex_time": 0.008090019226074219,
+    "llm_time": 14.916985988616943
+  },
+  {
+    "id": "CV_14",
+    "category": "FINANCE",
+    "regex_seniority": "Senior",
+    "llm_seniority": "Senior",
+    "regex_gpa": null,
+    "llm_gpa": null,
+    "regex_skills": [
+      "Auditing",
+      "Budgeting",
+      "Financial Reporting",
+      "Forecasting",
+      "Payroll",
+      "Variance Analysis"
+    ],
+    "llm_skills": [
+      "Budgeting",
+      "Cost management",
+      "Financial Reporting & Analytics",
+      "SOX Compliance",
+      "Oracle ERP",
+      "Hyperion Planning",
+      "Financial planning and forecasting",
+      "Data analysis",
+      "Project management",
+      "Client relationships"
+    ],
+    "regex_time": 0.009269237518310547,
+    "llm_time": 8.99760627746582
+  },
+  {
+    "id": "CV_15",
+    "category": "FINANCE",
+    "regex_seniority": "Senior",
+    "llm_seniority": "Senior",
+    "regex_gpa": null,
+    "llm_gpa": null,
+    "regex_skills": [
+      "Excel",
+      "Financial Modeling",
+      "Financial Reporting",
+      "Reconciliation",
+      "Risk Management",
+      "Sql"
+    ],
+    "llm_skills": [
+      "SQL",
+      "Teradata",
+      "Oracle",
+      "Excel",
+      "VBA",
+      "Access",
+      "Business Intelligence",
+      "Data analysis",
+      "Financial reporting",
+      "FP&A"
+    ],
+    "regex_time": 0.00503993034362793,
+    "llm_time": 15.720837831497192
+  },
+  {
+    "id": "CV_16",
+    "category": "HR",
+    "regex_seniority": "Senior",
+    "llm_seniority": "Mid-Level",
+    "regex_gpa": null,
+    "llm_gpa": null,
+    "regex_skills": [
+      "Excel",
+      "Payroll",
+      "Performance Management",
+      "Recruitment",
+      "Sql",
+      "Training And Development"
+    ],
+    "llm_skills": [
+      "SAP R/3 4.7",
+      "MS Office",
+      "SQL",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Windows",
+      "Recruitment",
+      "Training & Development",
+      "Performance Appraisal"
+    ],
+    "regex_time": 0.010819196701049805,
+    "llm_time": 20.28906559944153
+  },
+  {
+    "id": "CV_17",
+    "category": "HR",
+    "regex_seniority": "Senior",
+    "llm_seniority": "Mid-Level",
+    "regex_gpa": null,
+    "llm_gpa": null,
+    "regex_skills": [
+      "Accounting",
+      "Employee Relations",
+      "Payroll",
+      "Quickbooks",
+      "Reconciliation",
+      "Recruitment"
+    ],
+    "llm_skills": [
+      "ADP",
+      "AR/AP",
+      "Oracle",
+      "QuickBooks",
+      "Peachtree",
+      "BrassRing",
+      "MS Office Suite",
+      "Accounting",
+      "Database management",
+      "Employee Relations"
+    ],
+    "regex_time": 0.00971674919128418,
+    "llm_time": 15.802088975906372
+  },
+  {
+    "id": "CV_18",
+    "category": "HR",
+    "regex_seniority": "Senior",
+    "llm_seniority": "Senior",
+    "regex_gpa": null,
+    "llm_gpa": null,
+    "regex_skills": [
+      "Benefits Administration",
+      "Employee Relations",
+      "Excel",
+      "Hris",
+      "Payroll",
+      "Performance Management",
+      "Recruitment"
+    ],
+    "llm_skills": [
+      "Employment Law",
+      "FMLA/ADA/EEO/WC",
+      "Mediation & Advocacy",
+      "HR Policies & Procedures",
+      "Staff Recruitment & Retention",
+      "Benefits Administration",
+      "Training & Development",
+      "Performance Management",
+      "Organizational Development",
+      "HR Program/Project Management"
+    ],
+    "regex_time": 0.01907491683959961,
+    "llm_time": 20.639414310455322
+  },
+  {
+    "id": "CV_19",
+    "category": "INFORMATION-TECHNOLOGY",
+    "regex_seniority": "Mid-Level",
+    "llm_seniority": "Unknown",
+    "regex_gpa": null,
+    "llm_gpa": null,
+    "regex_skills": [],
+    "llm_skills": [
+      "Excellent attention to detail",
+      "Fast Learner",
+      "Ability to work under pressure",
+      "Excellent problem-solving abilities"
+    ],
+    "regex_time": 0.0032634735107421875,
+    "llm_time": 16.23283052444458
+  },
+  {
+    "id": "CV_20",
+    "category": "INFORMATION-TECHNOLOGY",
+    "regex_seniority": "Mid-Level",
+    "llm_seniority": "Senior",
+    "regex_gpa": null,
+    "llm_gpa": null,
+    "regex_skills": [
+      "Linux",
+      "Networking",
+      "Troubleshooting"
+    ],
+    "llm_skills": [
+      "Windows",
+      "Unix",
+      "Linux",
+      "VMWare",
+      "Wireshark",
+      "Snort",
+      "TCPDump",
+      "EnCase",
+      "Bash Programming",
+      "configuring routers and switches",
+      "computer networking",
+      "Intrusion analysis",
+      "Firewalls"
+    ],
+    "regex_time": 0.0065364837646484375,
+    "llm_time": 23.862669706344604
+  },
+  {
+    "id": "CV_21",
+    "category": "INFORMATION-TECHNOLOGY",
+    "regex_seniority": "Senior",
+    "llm_seniority": "Senior",
+    "regex_gpa": null,
+    "llm_gpa": 4.0,
+    "regex_skills": [],
+    "llm_skills": [
+      "Project management",
+      "Program management",
+      "Process improvement",
+      "Requirements gathering",
+      "Team leader",
+      "Strategic planning",
+      "Data analysis",
+      "Team player",
+      "Software Development Lifecycle Methodology",
+      "Web technologies"
+    ],
+    "regex_time": 0.00782012939453125,
+    "llm_time": 18.999762535095215
+  }
+]

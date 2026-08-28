@@ -1,0 +1,206 @@
+Professional Summary
+8+ years of IT experience in Software Development Life Cycle (SDLC), Web Application Design, Development, Programming, Testing, Support Maintenance and End-User support.
+Hands on exposure to different SDLC models like Waterfall, Agile and undergone the training in software Development Processes like SDLC, Test Driven Development (TDD) and Iterative Methodologies.
+Worked extensively on Spring MVC, Hibernate, Web Services, XML, MQ series, JMS and Message Driven Beans.
+Extensive work experience in Object Oriented Analysis and Design, Java/J2EE technologies including Servlets, JSP, JSON, JSF, JDBC, JPA, JSTL, HTML, HTML, HTML5, JavaScript, CSS, CSS3, Twitter Bootstrap, XML, JSON, XSL/XSLT, Angular JS, Node JS, React JS, Ext JS, AJAX, JQuery for developing server side applications and user interfaces in Windows and Unix Environments.
+Expertise in building web enterprise applications using Servlets/JSP’s, Struts 2.x, Hibernate, JSF and Spring Framework features like Spring IOC, Spring MVC, Spring AOP, Spring DAO, Spring JDBC, Spring ORM, Spring Boot, Spring Batch, Spring Cloud, Spring Integrations and Spring Security.
+Experience with Service Oriented Architecture (SOA), development and deployment of Web Services using SOAP, WSDL and Restful Web services, Spring-RS.
+Experience in using DOM4J, JAXB, JAXP parsing and XML Bean to process, validate, parse and extract data from XML files.
+Familiar in working with application servers and web servers like Web Sphere, Web Logic, Jboss and Apache Tomcat.
+Worked with different IDE’s like Eclipse, Net Beans, JDeveloper, Data studio, Spring Tool Suite, IntelliJ and RAD.
+Extensive experience in working with different databases of RDBMS such as Oracle 9i/10g/11g, IBM DB2, SQL Server, MySQL, PL/SQL and NoSQL such as Cassandra, MongoDB. Writing Stored Procedures, Functions and Triggers for different Data Models.
+Experience with Core Java fundamentals such as Multithreading, Collections, Generics and Annotations.
+Extensive in-depth knowledge in OOAD concepts of Use Cases, Activity Diagrams, Sequence Diagrams and Class Diagrams using UML.
+Expertise in working with Windows, LINUX and UNIX, Shell Scripting and version control tools like CVS, SVN, GitHub.
+Good Experience in developing test cases with Junit, Groovy, Mockito and logging with Log4j. Used JIRA for bug tracking and issue tracking.
+Highly motivated team player with strong communication, analytical, documentation and organizational skills.
+Major strengths are familiarity with multiple software systems, ability to learn quickly new technologies, adapt to new environments.
+TECHNICAL SKILLS
+
+EDUCATIONAL DETAILS:
+Bachelor of Technology in Computer Science and Engineering - JNTUH, India.
+
+PROFESSIONAL EXPERIENCE:
+Client: Anixter Inc, Glenview, IL						     Jan 2017 – Present
+Role: Sr. Java/UI Developer
+Description: My role in Information Services (IS Dept) is to analyze & resolve requirements for Order Entry (OE), Order Management (OM) and Store Front System. OE, OM & Store Front application is to help & guide sales team to serve Anixter clients for cable parts & shipping. The application in production since August 2017, and is being implemented in phases to sales locations across United States and Canada. 
+
+
+
+Responsibilities: 
+Involved in analysis, specification, design, and implementation and testing phases of Software Development Life Cycle (SDLC) and followed Agile methodology (SCRUM) with daily standup meetings to keep track of project status and used JIRA/Confluence to communicate status and estimates.  
+Designed dynamic and multi-browser compatible pages using HTML5, JavaScript, Angular 2, and responsive interfaces using Bootstrap, styling using CSS 3 for better user interface experience.
+Used JSF for bean management in OE application and Icefaces framework extensively for implementing rich interfaces.
+Implemented data grid/tables using Angular 2, jQuery and Used for front end form validation. Bootstrap for front-end client facing single page applications(SPA).
+Used Spring Framework (MVC, IOC, AOP) to manage project classes. Modified Spring config.xml for bean dependency injection & auto wiring.
+Implemented various Spring beans & Impl classes to meet business requirements. Implemented validation using JSR 303 specifications.
+Used Spring Boot for building Microservices and developed Spring based application radically faster with very less configuration.
+Used Spring WS to implement RESTful web services.
+Secured REST API’s by implementing Oauth 2.0 token based authentication/authorization scheme using Spring security.
+Used JAX-WS to develop Soap web services.
+Developed Application to asses JSON and XML from RESTful web service from consumer side using JavaScript, AJAX, Angular 2 and tested different front-end forms using them.
+Created Spring Batches for running batch jobs and documented the use of Spring Batch.
+Integrated RabbitMQ and Spring JMS API to send and receive messages from RESTful APIs.
+Developed RESTful web services using JAX-RS and Jersey as the implementation for fetching the data from Database.
+Developed session EJB and message driven bean (MDB) to process JMS XML messages.
+Utilized Hibernate reverse engineering to create an automated process that generated hundreds of Java POJO entities from database.
+Extensively used Hibernate mapping, HQL, EH Cache, Query, Criteria, Transactions and Locking. 
+Worked on MongoDB database concepts such as locking, transactions, indexes, Sharding, replication, schema design, etc.
+Written and executed several stored procedures, triggers, packages, views and functions using DB2 Data Studio.
+Performed Unit Testing using Junit, Mockito frameworks for all the migrated modules to ensure complete code coverage and perform Smoke test after each build.
+Previously used Tortoise SVN and migrated to GitHub for source code maintenance. 
+Using Maven build tool to build and deploy the application.
+Worked on Swagger API and auto-generated documentation for all REST calls. 
+Used HP ALM for application lifecycle management & requirements and shifted to JIRA.
+
+ENVIRONMENT:  Java, Eclipse 4.x, HTML5, CSS3, Bootstrap, JSF 2.x, Icefaces 3.x, JavaScript, Angular JS, jQuery, Ajax, JSON, XML, JAXB, IBM WAS 8.5.5, Soap, RESTful Web Services, JDBC, JSP, JMS, Jersey, Spring Boot(Microservices), Spring (MVC, AOP, Security), OAuth 2.0, DB2 Data Studio, MongoDB, Hibernate, Log4J, JUnit, Swagger,  Mockito, Maven 3.x, VMWare, HP Application Life cycle (QC), Tortoise SVN, JIRA, GIT and JBoss.
+Client: Johnson Controls, Milwaukee, WI				              Aug 2015 – Dec 2016
+Role: Sr. Java/UI Developer
+Description: Johnson Controls is a global technology and industrial leader serving customers in more than 150 countries and specialize in the following areas: Building efficiency, Batteries and energy storage. Supplier Invoice Router (SIR) is a custom application build to route Supplier Invoices to different JCI ERP System. The SIR Service component reads Invoices from Message Queue (MQ), applies routing rules and routes Invoices to the appropriate ERP System. The SIR UI component is a web based form which is used by the users to correct Invoices that are in exception state in the system. 
+
+Responsibilities:
+Developed and Implemented Web Services and used Spring Framework. 
+Database design and implementation of backend logic in DAO classes & iBatis SQL mapping. 
+Extensive experience using framework APIs like Struts, Spring, iBatis and Hibernate. 
+Configured Struts, Hibernate framework with Spring MVC. 
+Developed user interfaces using JSP, JSF frame work with AJAX, Java Script, HTML, DHTML, CSS, Bootstrap and java scripts frame work like Angular JS, Node JS, Backbone JS, Ext JS and JQuery. 
+Involved in creation of web services, WSDL and web methods with Annotation in hibernate, Used the spring container for data source and to load the Hibernate specific classes. 
+Involved in developing the UI panels using JSF, XHTML, CSS, JSON, DOJO and JQuery. 
+Created applications, connection pools, deployment of JSPs, Servlets and EJBs in WebSphere. 
+Developed the Presentation and Controller layers using JSP, HTML, Java Script, Business layer using Spring (MVC, IOC, AOP, Batch), DTO and Persistent layer DAO, Hibernate for all modules. 
+Single sign-on (SSO) and multi-factor authentication with this property a user logs in with a single ID and password to gain access to a connected system or systems without using different usernames or passwords, or in some configurations seamlessly sign on at each system.
+Integrated Spring Security, SAML 2.0 and OAuth for single sign on for a different audience. 
+Designed and developed Microservices business components using Spring Boot.  Consumed REST based Microservices with Rest template based on RESTful APIs. 
+Written and executed stored-procedures DB2.  
+Automate test cases using the built in framework in Selenium Web Driver using Netbeans RCP IDE. 
+Involved in creating unit testing of various layers using JUnit and created automated test scripts for integration testing using selenium. 
+Usage of version control repository SVN, JIRA/ Quality Center for ticketing and Jenkins for nightly build.
+Designed the front end using Java Applets and Swing, as well as JSP. 
+Developed the different components of application such as JSPs, Servlets.
+Created SQL queries, PL/SQL Stored Procedures, Functions for the Database layer by studying the required business objects and validating them with Stored Procedures using SQL Server.
+Written and executed stored-procedures on SQL SERVER back-end through JDBC API.
+Used TOAD for database query testing, in the process of optimizing the queries. 
+Used Visual Source Safe (VSS) for source code maintenance. 
+Expertise in employing Water Fall Model and best practices for software development. 
+Auto-Generation of client side code using APACHE AXIS2 with JAXB-RI binding.
+Used Ant for developing build scripts and deploying the application onto WebLogic. 
+Deployed and tested the application on Weblogic7.0 in windows and Unix environment. 
+ENVIRONMENT:  Java (JDK 1.7), Spring, iBatis, Struts, Hibernate, JSF, EJB, APACHE AXIS2, WSDL, JQuery, JSP, SERVLET, Microservices, MYSQL, Toad, SQL Server, SSO, SAML, OAuth, UML, Netbeans, Selenium, ANT, Xml, JIRA, SWING, SVN, VSS, Jenkins, Weblogic, Water fall model.
+Client: ADP, Phoenix, AZ				                            	    Sep 2014 – Jul 2015
+Role: Sr. Java Developer
+Description: This project is about user to approve or reject his own message. Users can assign tasks to other groups or other person based upon his authorization to particular resource. The system allows user to create events in their calendar. Users get their messages from integrated apps and will be visible to them. They can take action to their message. 
+
+Responsibilities:
+Designed and coded application components in an Agile environment utilizing a test driven development and SDET approach and pair-programming. 
+Developed the application using Spring framework (MVC, IOC, AOP, Batch), DTO that leverages model view layer architecture, also configured Dependency Injection. 
+Used SOAP based web services from scratch to develop interfaces to integrate between front end systems and back end systems. 
+Designed and developed the XSD for WSDL. 
+Used Spring Security to provide authentication, authorization, and access-control features for this application. 
+Developed user interface using JSP, JSP Tag libraries JSTL, HTML5, CSS3, JavaScript, Angular JS, Node JS, JSON to simplify the complexities of the application 
+Used Spring MVC framework for developing web application 
+Used OAuth for service layer security.
+Used SAML to implement authentication and authorization scenarios.
+Implemented the debugging functionality in an application by using Apache LOG4J framework. 
+Used JMS for the asynchronous exchange of critical business data and events among J2EE components and legacy system. 
+Designed and developed the application using Java Server Faces (JSF) framework. 
+Developed User Interface in JSP, JavaScript and HTML with Backbone JS Framework. 
+Designed and developed RESTful style Web Service layer using Spring boot, and WSDL. 
+Refactored Microservice to make it RESTful, thread-safe, and more configurable. 
+Implemented a generic interface to Hibernate criteria API for UI search functionality. 
+Developed SQL, PL/SQL, stored procedures along with database application scripts. 
+Deployment of web, enterprise java components, messaging components and multi-threading. 
+Worked on automating data loading, extraction, reports generation using UNIX Shell scripting.
+Developed XML Schemas - XSD, DTD for the validation of XML documents, also used Subversion. 
+XML (SAX and DOM API, JDOM), XSLT was used for informative view. 
+Used XML web services using SOAP to transfer the amount to transfer application. 
+Used SWING for GUI based coding.
+Written unit test cases using JUnit and Groovy framework. 
+
+Environment: Java (JDK 1.7), J2EE, JSP, PL/SQL, Spring, EJB, MAVEN, JMS, JNDI, Oracle, XML, DOM, SOAP, Spring Framework security using LDAP, JUnit, Mockito, OAuth, SAML, Apache Camel, JSF, Angular JS, JSON WebSphere, Hibernate, Microservices, JDBC, Shell scripting, RESTful APIs, WebLogic, Jboss, SOA, Tomcat.
+Client: T-Mobile, Bothell, WA						 Dec 2012 – Aug 2014    
+Role: Sr. Java Developer
+Description: Voice Online Manager Application (VOM) is a product designed to allow the customers to easily monitor their entire telephone account through a single point of online access. Customers will be able to access their home telephone call logs, manage telephone settings, manage voicemail settings and check new voice messages from one source. 
+
+Responsibilities: 
+Actively participated in all phases of SDLC, Requirements gathering, design & Analysis, development, testing, deployment and bug fixing of an application.
+Implemented the frontend and developed UI screens using Spring MVC framework, Hibernate ORM Module, TDD, Spring Core Module, XML, JSP and XSLT. 
+Worked on the Spring framework like Spring IOC and Spring DAO. 
+Implemented Spring MVC, dependency Injection (DI) and aspect oriented programming (AOP) features along with Hibernate. 
+Used Core Spring framework for dependency injection and Spring Context to add support for message sources and i18n internationalization. 
+Used ORM to integrate with the Hibernate and used the hibernate template to implement the business logic. 
+Created Database Tables, Sequences and wrote hibernate mapping files and POJO class. 
+Used Hibernate tools to interact with the database. 
+Implement the presentation layer (GUI), based on open source framework, using Angular JS, HTML, HTML 5, JSP, JSTL, CSS, CSS 3, HTML, JavaScript and Beans. 
+JQuery library, Backbone JS and Angular JS has been used for creation of powerful dynamic Web Pages and web applications by using its advanced and cross browser functionality. 
+Developed flow using AJAX partial page refresh, validation and dynamic drop down list. 
+Reviewed the XML logical data model and developed XML schema (XSD) to validate the model and used Jax-B for Xml-Java Mapping and Xml-Xslt conversion. 
+Developed client side code to consume Web Service provided by third party vendors to receive employee information using Axis, XML, WSDL, SOAP. 
+Single Sign-Off and multi-factor authentication is used whereby a single action of signing out terminates access to multiple software systems.
+Worked on SOAP and JAX-RS for Restful Web Services. 
+Implemented UNIX shell script for document storage validation & deletion. 
+Used best practices and design patterns Singleton, Template, Strategy, etc. 
+Implemented Java Message Services (JMS) using JMS API. 
+Implemented Maven build tools to build jar and war files and deployed war files to target servers. 
+Developed AJAX functionalities using frameworks like JSON, DOJO and JQuery. 
+Used Tortoise SVN for version control and Eclipse RCP for application development. 
+Used log4j to audit, assign, track, and report the issues in the application. 
+Deployed the application on Web Sphere Application Server. 
+Developed JUnit test cases using Mockito.
+Involved in functional testing and integration testing. 
+Scrum methodology is used in developing the product. Attended regular scrum meetings for feedbacks and design changes. 
+ 
+Environment: Java (JDK 1.6), J2EE, Eclipse RCP, Spring, Hibernate, SSO, Web Services (REST APIs & SOAP), WebSphere, Tortoise SVN, Maven, HTML, CSS3, Servlets, Angular JS, Backbone JS, AJAX, JQuery, Java Script, JMS, Shell script, Oracle 10g, Agile, Bootstrap and Windows 7.
+
+
+Client: Oriental Insurance, Delhi, India			                            Oct 2011 – Nov 2012                  
+Java Developer
+Description: Oriental Insurance is one of the largest mutual life insurance companies in the India. Oriental sells a variety of products including Personal insurance, Family insurance, House insurance and Motor insurance. The project involves developing online management tool in order to get 24/7 access to their policies, to check the status of it, reviewing and updating the information and also to find the most up-to-date information available from the database.
+
+Responsibilities:
+Implemented front end (UI) of the application using HTML5, CSS, Angular JS and Node Js.
+Designed and developed very complex and large web pages using AngularJS library with AJAX and JSON. 
+Designed JSP pages for Initial applications, Submissions and Maintenance Involved in implementing Message Driven Beans using for JMS systems.
+Developed session EJB and message driven bean (MDB) to process JMS XML messages.
+JSPs, Servlets, XML descriptors, using WebSphere Application Server.
+Streamlined the time bound nightly batches for concurrent processing on various nodes within a cluster using Spring Batch.
+Used struts validation framework to perform Server side validations.
+Used SAML to implement authentication and authorization scenarios.
+Developed Spring service classes for Initial applications and Maintenance module to implement business logic requirements.
+External customer portal is developed in annotation based Spring MVC and Hibernate.
+Designed and Developed End to End customer self service module using annotation based Spring MVC, Hibernate, JSP and JQuery.
+Involved in integrating applications with other application using IBM WebSphere.
+Involved in generating Hibernate Configurations files, Hibernate mapping files and Hibernate data Objects to communicate data in persistence layer.
+Worked on Database Stored Procedures and Functions, views and Synonyms.
+Implemented Java & J2EE design patterns.
+Responsible to prepare Unit test scripts using JUnit.
+
+Environment: Java 1.6, JSP, Spring4.x, Spring MVC, Spring Batch, Hibernate, IBM WebSphere, WebLogic application server8.1, JMS, MySQL, SAML, Eclipse RCP, CVS, Angular JS, Node JS, HTML, CSS, JSON, JUnit, AJAX, Maven.
+
+Client: ING Vysya, Bangalore, India			      	                             Jun 2009 – Sep 2011                  
+Java Developer
+Description: ING Vysya company provides banking services. It provides Business services like checking accounts, saving accounts and loan services to the clients. The Mortgage calculator provides accurate monthly mortgage payment estimations instantly after users provide basic information like loan amount, down payment, interest rate, loan term, start and end date and property tax rate. Users can also set duration of the fixed interest rate and extra payment to be added each month to get a more flexible payment plan. Graphics including Tables and charts are provided by the project to help clients better understand the payment plan.
+Responsibilities: 
+Used Test-Driven Development with SCRUM Agile methodology and involved in all the business meetings and status update meetings as a part of SCRUM.
+Involved in the full software development life cycle of the project from analysis and design to testing and deployment. 
+Extensive use of core Java Collections, Generics, Exception Handling, and Design Patterns for functionality, such as portfolio summary and user information. 
+Painted UML including Use case diagram, Class diagram, Sequence diagram and Data flow diagram. 
+Design E-R graphs and relationship among different database tables, Created tables with low coupling. 
+Written Form beans for the UI form validation and Action classes for the application flow.
+Involved in writing the code for server side validations using Struts Validator Framework.
+Implemented asynchronous calls from UI using AJAX.
+Wrote PL/SQL Queries, stored procedures, triggers and prepared statements. 
+Implemented Spring Security to provide authentication, authorization, and access-control for this application. 
+Configured Spring Cache to cache the results of methods that were frequently called by users or systems. 
+Developed graphical user interface by using JSP, JSON, HTML5, CSS3, JavaScript/jQuery, and AJAX calls. 
+Implemented user input validations using JavaScript and jQuery. 
+Using Angular.js to implement data binding, Module loading. 
+Implemented web page responsive design using Bootstrap. 
+Inspected and debugged front-end code with FireBug.
+Able to create complex JIRA workflows including project workflows, screen schemes, permission scheme and notification schemes in JIRA.
+Used JIRA and Log4J for project management, tracking and monitoring errors. 
+Developed test cases and performed unit test using JUnit Framework. 
+Used GitHub for code repository and version control and worked with Stash. 
+Build code using Eclipse and deploy it using JBoss fuse.
+Using MySQL to develop database.
+
+Environment: Spring, Hibernate, JavaScript, CSS/CSS3, AJAX, HTML/HTML5, JSON, PL/SQL, JDBC, Web Services, Eclipse, Struts, JUnit, iBatis, Scrum, JSP, IBM Websphere, MySQL, Jira, JBoss, Stash, GitHub.

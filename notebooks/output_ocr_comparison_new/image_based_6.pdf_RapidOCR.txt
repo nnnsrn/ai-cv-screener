@@ -1,0 +1,40 @@
+Syed BasharathAlam
+.Net Developer
+basharathalam1@outlook.com
+(443)995-7854
+PROFESSIONALSUMMARY:
+An I.T.Professional with 3+years of experience in IT industry as a Dot Net Developer.
+Hands on experience n softwaredeignanalysis,deveopmenttesting and implementation of web and
+client serverapplications usingMicrosoftNetTechnologies.
+Handsonexperience inmulipe SQLServerversions-2005,2008.and2012.
+Participatedon all thephasesofSoftwareDevelopment Life Cycle(SDLC)including
+Requirements Gathering,Analysis,Design,Development,Testing,UAT,deployment,Production
+andPost-productionSupport andmaintenance.
+Handedand resolved many compex issues andreceived appreciation from clients.
+Excellent interpersonal skills and teamwork,excellent analytical and problem soling.
+Prioritize tasks/assignmentsbased on the chient priorities/severity.
+Quicklearner,Creative thinker and Analytical probkm-solver with demonstratedability to
+manage projectsfrom planningstage through execution/completion uder the pressure of fast-
+paced time-sensitive environments.
+TECHNICALSKILLS:
+Programming:NeLC#,ASP.NET,ADO.Net,MVCFramework
+Database:MS SQLServer2005/2008/2012,T-SQL.
+WebDevelopmnt:ASP.NETSiverlightogNetTFSStact,HTMLCSSJavasripHTML,CSSXSLT
+Others:MicrosoftVisual Studio2008,2010,MicrosoftTeamFoundationServer(TFS）,Microsoft Office,
+Excel
+EDUCATION:
+PursuingMasterin Software Engineering fromStratfordUniversity,VA,USA.
+Masterof Technology (M.S）in Computer Science fromJNTU,HyderabadIndia in 2015.
+Bachelor of Engineering(B.E)in Computer Science from Osmania University Hyderabad,India
+in 2011.
+PROFESSIONALEXPERIENCE
+Senior.NetDeveloper
+November201l toAugust2015.
+E-Centric solutions,Pvt Lt
+Hyderabad
+Website:www.e-centricsolutions.com
+SoftwareandWebDeveloper
+August2015toJanuary2016.
+Community Force
+Ashburn,Virginia,USA.
+Website:www.communityforce.com

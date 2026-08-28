@@ -1,0 +1,169 @@
+
+Nilesh Banthiya
+
++91 9427399390
+
+Email: nilu_banthiya@yahoo.com
+
+Skype: nilesh.banthiya
+
+Portfolio: http://www.coroflot.com/nileshJ/portfolio
+
+
+
+Personal statement
+
+
+
+
+
+A highly experienced and creative web developer with 11 years’ experience in a variety of exciting projects. A level head and rational approach to problem solving combined with a passion for innovative and fresh ideas has led to a portfolio of impressive website solutions. Technically competent and industry aware means that each project is undertaken with the most up-to-date and relevant programming foundations available.
+
+Core skills
+
+
+
+Experience of 11 years in PHP, MYSQL, CSS, XHTML and JavaScript
+
+Experience with design pattern, architecture layouts and MVC frameworks like Zend, Laravel, Codeignitor, and Symfony.
+Advance knowledge of JQuery, Bootstrap and Angular.
+
+Expertise in Drupal, Magento, Wordpress and Joomla.
+
+Rich experience on APIs like Amazon API, Google API, and RETS API
+
+Worked on different types of payment processors like PayPal, authorize.net, Google checkout etc.
+Experience with object-oriented software development methodologies
+
+Integrating new technologies into web properties
+
+
+Employment history
+
+
+
+
+Sr. PHP Lead Developer – USA based Web Development Company
+
+
+(Jan 2010 – Present)
+
+
+Leading a small team on a variety of development projects and delivering solutions to meet and exceed clients’ briefs.
+
+Worked on large scale of applications built on Drupal, Magento, Wordpress and Custom application development.
+
+Duties
+Outlining and presenting specifications for all web based requirements
+
+Hands on development of all projects from genesis to delivery
+
+Mentoring team members in development and technical progression
+
+Writing multiple code and script and ensuring cross browser compliance
+
+Trouble shooting and problem solving
+
+
+Projects:
+
+Drupal 8 :
+
+Financial services application in multilingual environment.
+
+Art Gallery application.
+
+
+Drupal 6 and Drupal 7
+
+LCEEQ
+
+URL: http://lceeq.ca/
+
+Conference and workshop management.
+
+Project duration: 10 Months
+
+
+Fablab Inc.
+
+URL: http://fablabinc.com/
+
+E-commerce and Production scheduling.
+
+Project duration: 8 Months
+
+
+RMGC
+
+URL: http://www.rmgc.org
+
+Golf Club members’ management application.
+
+Project duration: 6 Months
+
+
+CMS Websites:
+
+http://www.nuquits.gov.nu.ca/
+
+http://www.nunavutstories.ca/
+
+
+http://ilitaqsiniq.ca/
+
+http://irespectmyself.ca/
+
+
+
+
+PHP Projects:
+
+http://luxeinacity.com/
+
+https://legallogik.com/
+
+https://defensesoap.com
+
+http://unitedgyms.com/
+
+
+
+
+Team Leader – Silver touch Technologies LTD.
+
+(Apr 2007 – Dec 2009)
+
+Duties
+Monitoring the overall progression of department and staff
+
+Maintaining performance of client websites
+
+Suggesting improvements on design and functionality
+
+Diagnosing and rectifying performance issues
+
+Providing aftercare support for clients on assessing the performance of their sites
+
+
+Web Developer – Fusion Informatics PVT LTD.
+
+(Jun 2005 – Mar 2007)
+
+Duties
+Maintaining continuity throughout all websites both technically and creatively
+
+
+Education
+
+
+
+
+G.H.PATEL College of Engineering (Sardar Patel University)
+
+(2001 – 2005)
+
+B.E (IT)
+
+
+Please do not hesitate to contact me if you require references from any of my previous employers.

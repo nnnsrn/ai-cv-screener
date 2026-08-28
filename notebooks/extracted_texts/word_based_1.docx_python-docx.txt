@@ -1,0 +1,238 @@
+--------------------------------------------------------------------------------------------------------------------------------------
+
+
+8+ Years of experience in Business Analytics and Operational experience in Enterprise Application, Banking, Health Insurance Management and Healthcare Management.
+Proficient in using Waterfall & Agile Scrum Methodologies in performing the roles as a BA and Scrum Master.
+Experience in Project Management activities of planning, scoping, monitor and control using tools such as Rally, JIRA, SharePoint and HP ALM-QC for requirements management and change management processes
+Thorough understanding and implementation of Agile and Waterfall methodologies, and Lean Six Sigma implementation techniques
+Enterprise application deployed as SaaS.
+Knowledge on IBM info sphere for Master Data Management.
+Proficient generating and reviewing system process flows and sequence diagrams
+Planned sprint/standup sessions, retrospective, maintain backlogs and sprint grooming/review sessions.
+Facilitated requirements elicitation sessions to ensure comprehensive collection of requirements with stakeholders
+Expertise in identifying, developing and documenting Business and Functional Requirements Specifications (FRS), User Stories, User Requirements Specification, System Requirements Specifications (SRS), Non-functional requirements and Supplementary Specifications
+Contact Center or Call Center technology experience with IVR.
+Strong understanding of Interactive Voice Response (IVR), Computer telephony integration (CTI), Automatic Call Distributor (ACD), call routing and queuing, Softphone and call analytics and reporting platforms.
+Conducted interviews, workshops and requirement elicitation sessions with end-users, clients, stakeholders, development groups and Subject Matter Experts (SMEs)
+Work with both the Robotic Process Automation (RPA) Lead Analyst and the customer to define automation requirements
+Experience in portfolio of applications that support major technology programs and the built out of contemporary applications. These applications are focused on telephony, voice analytics, application/phone integration, soft phone, web services and UI development.
+Performed Enterprise level Business Impact Analysis (BIA) to identify critical business continuity action plans and the related infrastructure interdependencies, single points of failure, and formulated recovery strategies
+Knowledge utilizing Oracle OSS/BSS platforms preferable
+Acted as a Scrum Master for multiple teams to create Sprint Backlog, organized Sprint planning meeting, Daily Sprint Meeting, Sprint review meeting and Sprint retrospective meeting.
+Comfortable generating high and low-level system architecture diagrams and design documentation
+Acted as a SME/BA for Mobile Web and Apps (iOS, Android and Tablets) for retail and flight operations 
+Hands-on experience with Web-services for data validations, input parameter validations, assertions on Json and XML files
+Ability to identify system and business process gaps and inefficiencies and provide solution workarounds, as well as business process enhancements to resolve those inefficiencies
+Experience with Web-services testing SOAP, WSDL and Restful web services
+Experience in Micro Service in Enterprise Application. 
+Experienced in creating graphical representations of complex business processes
+Aided in testing efforts to ensure that test plans and test cases were developed and that requirements trace to tests
+Have worked on backend databases for validating date in MS SQL server and Oracle
+Well-versed with test planning, and test execution including defect tracking/reporting
+Articulate difficult concepts through clear and concise verbal and written communication
+Skilled in conducting Risk analysis, GAP analysis, JAD sessions, User Acceptance Testing (UAT), Root Cause analysis, and Fish Bone analysis.
+Knowledge on PCI DSS for transactions.
+Knowledge of integrated, global call center technologies to support IVR, CRM, CTI integration and skills-based routing in a Customer Interaction Platform environment
+Defined and executed IVR, Chat, and Email channel solutions from concept to rollout. Measured results and enhanced to improve customer and shareholder metrics
+Prior experience in research, writing, literature reviews, office management, employee recruitment, and training
+Maintained cooperative and a productive work relationship across business functional areas to resolve issues and identified notable members for a project team
+
+Technical Skills:
+
+
+
+Certifications:
+
+Certified Scrum Master from International Scrum Institute (SMAC)
+Business Process Management – UIS 
+IT Project Management – UIS 
+Business Intelligence – UIS 
+
+
+Experience:
+
+BroadSoft Inc – San Jose, CA							             	
+(September 2017 –  Current)
+BroadSoft Inc. worked as Business Analyst / Product Manager
+
+Project Description:
+BroadSoft CC-One provides contact center solutions for the customers like Office Depot and Guthy Renker etc. It provides Omni-channel communication like SMS, Chat, Email and twitter to increase efficiency of the Call centers for better service.
+
+Initiated daily meeting with Infrastructure, Engineering, CSM and Technical Support team members to keep update on the migration and roadmap going further.
+Responsible for writing the release notes and updating the PRD (Product Requirement Document) for the future release.
+Interacted with Technical Support team and helping them resolve their support issues on Enhancement requests from customers.
+Understanding the product and its configuration setup as end-user perceptive from CSM (Customer Success Management)
+As part of migration, I was responsible to maintain the list of changes that is being migrated.
+Involved with CSM’s to understand more about the product as end-user. 
+Worked on RFP (Request for Proposal) to assist Sales Engineers.
+knowledge in Micro Services in Enterprise Applications.
+Delivered business value by creating business logic and operating it so it can provide a service to some users
+Identified Customization’s of customer requests as part of migration and discussed with Engineering and Operations team.
+Giving Demo on product to the sales engineers.
+Attended boot camps which gathers all the customers around the world to provide insights and recent migration changes for the current release and the roadmap for future releases.
+As a part of migration, I was also responsible for testing the new features and assisting the QA team.
+Experienced in JIRA tool for tracking the issues.
+Responsible for ensuring agreed targets and conditions are met on behalf of a company or organization
+Ability to handle delivery and business stakeholders
+Ability to anticipate and build contingency plans
+Defined the functionality, usability, reliability, performance and support requirements for Robotic Process Automation (RPA) applications as a business subject matter expert. 
+Processed needs for RPA, delivering innovative automations, automation analysis, solution design, and automation development and deployment.
+Contact Center or Call Center technology experience with IVR.
+Defined and executed IVR, Chat, and Email channel solutions from concept to rollout. Measured results and enhanced to improve customer and shareholder metrics
+Work with both the Robotic Process Automation (RPA) Lead Analyst and the customer to define automation requirements
+Experience in portfolio of applications that support major technology programs and the built out of contemporary applications. These applications are focused on telephony, voice analytics, application/phone integration, soft phone, web services and UI development.
+Master in strategic business process modeling, traceability and quality management techniques.
+Making decisions at the appropriate time, considering the needs of the situation, priorities, constraints and the availability of necessary information.
+Expertise in handling projects and teams independently and having good knowledge on supply chain management and warehouse centers.
+Strong understanding of Interactive Voice Response (IVR), Computer telephony integration (CTI), Automatic Call Distributor (ACD), call routing and queuing, Softphone and call analytics and reporting platforms.
+Good at resource and client/customer, process and time management.
+Knowledge of integrated, global call center technologies to support IVR, CRM, CTI integration and skills-based routing in a Customer Interaction Platform environment
+Have good exposure in analyzing the impact and good in planning resources for automation.
+
+Capital One - Chicago, IL							             	
+(October 2016-  Aug 2017)
+Role:     Sr. Business Analyst
+Project: Justice Conversion/Launch and L&T Conversion/Launch
+
+Project Description:
+
+Justice is a retail store which is targeted towards tween girls market. As part of this project, converted over 200K credit card accounts from ADS (Alliance Data Systems Corporation) to Capital One WHRIL system. As part of this partnership launch, built application, account and statements report to send to 3rd party vendors TSYS and Epsilon.
+Lord and Taylor is an oldest luxury department store in the United States. As part of this project, converted over 1.5 MM credit card accounts from GE Synchrony to Capital One WHRIL system. Along with the conversion, new capabilities were added to the WHIRL system to support L&T, one of the enhancements was to differentiate customers and re-issuing Premier Credit Card with more rewards if the total purchase transactions are more than $1200 per year.
+Interact with the business Users on the Business requirements and converting them to technical design specifications.
+Executed the project in Agile methodology.
+Gathered business requirements by conducting detailed discussions with business users, stakeholders, and Subject Matter Experts (SME’s).
+Knowledge working with IBM Info sphere. 
+Experienced in creating graphical representations of complex business processes
+I was responsible to identify most valuable reports by analyzing the data and their relationships.
+Developing new software components.
+Knowledge on mainframes vs. servers.
+Interact with Subject matter experts, Product owners and other stakeholders on prioritizing the user stories.
+Interact with multiple vendors during the project.
+Experience on sever configurations. 
+Review the work done by the team and collaborated with team using confluence.
+Experienced in graphical user interface mockup and website wireframe builder application. 
+Support the E2E testing during SIT and UAT phases which involves multiple vendors and multiple applications.
+Provide demo to the Business on the functionality/product developed.
+Ensure Quality Deliverables.
+Clear the impediments which team is facing.
+Provide post production warranty.
+Defined the functionality, usability, reliability, performance and support requirements for Robotic Process Automation (RPA) applications as a business subject matter expert. 
+Processed needs for RPA, delivering innovative automations, automation analysis, solution design, and automation development and deployment.
+Responsible for the quality procedures to be followed and documented correctly.
+Document the project deliverables in Hand over document and provide the necessary inputs for the production support team to take over.
+Conducted training sessions to the end users for using the OBIEE Analysis, Dashboards and various OBIEE Reports
+Prepared the training material on how to use the OBIEE Tool to generate the Reports/Dashboards
+Trained the End users and got feedback to incorporate the Business Terminology in the OBIEE Tool.
+Ability to identify system and business process gaps and inefficiencies and provide solution workarounds, as well as business process enhancements to resolve those inefficiencies
+Environment: Agile Scrum, UML, XML, MS Office, MS Visio, OBIEE 11g, Oracle 10g/11g DB, SQL, Endeavor, QC, SOAP UI and HP ALM QC 11.0.
+
+
+
+Mercy Hospitals – Philadelphia & Maine                      
+April 2015 – Sep 2016
+Assistant Manager – Business Analytics
+
+Project Description:
+
+Mercy of the top integrated health care supply chain organizations in the nation. Learn, grow and advance with an industry leader.
+
+Projection of cash by using Waterfall Model.
+Working on the EDIs (Electronic Data Interchange) and providing final output to operation team.
+Working on patient eligibility requests (270) and the responses to it (271)
+Analyzing the Remittance Advices received from insurance companies in the form of 835 responses.
+Providing the results of 835 responses to the operations for quick resolution of claims.
+Preparation of presentations for the monthly client meetings which includes the trends and analysis done throughout the month.
+Hands on experience on Balsamiq mockup tool.
+Proficient generating and reviewing system process flows and sequence diagrams
+Applying the Denial Management strategies for quick resolution of the claims pending for payment.
+Working with the coding and billing teams to ensure the accuracy of data mentioned on the claims
+Prepared Data flow diagram and business process models that would comply with ICD-9 CM.
+Involved in the full HIPAA compliance lifecycle from GAP analysis, mapping, implementation, and testing for processing of Medicaid Claims
+Analyzed System flows of various department of the hospital
+Designed project protocol in collaboration with multi-disciplinary team including physicians
+Found various trends related to bulk denials from insurance companies and resolved them
+Credentialing of the providers with payers for various departments and physicians
+Credentialing of providers helped increasing the speed of collections
+Experienced in HIPPA compliance rules and PHI (Protected Health Information)
+Following up with the federal insurance companies (Medicare & Medicaid) for bulk resolution of claims pending for payment.
+Managed Test’s using Test Rail.
+
+
+UPS - Louisville, KY								  
+(May 2013 - Feb 2015)
+Business Analyst / Scrum Master
+
+Project Description:
+
+UPS is the world's largest package delivery company and a leading global provider of specialized transportation and logistics services. UPS implemented a mobile (Android and iOS) project for its crew- 1st and 2nd officers to bid their flight schedules, reserve trips, check for the flight schedules and the history.
+
+Elicited requirements using document analysis, requirement workshops, brainstorming, interviewing,
+Questionnaire/Surveys and focus groups
+Experienced in creating graphical representations of complex business processes
+Experienced in graphical user interface mockup and website wireframe builder application.
+Performed GAP analysis by working closely with the clients to understand their current state of information availability in and defined future needs based on analysis of business requirements.
+Hands on experience on Balsamiq mockup tool.
+Coordinated with Crew scheduling team/schedulers in loading and build trips and legs for Pilots bidding process.
+Conducted JAD sessions and captured meeting minutes for staff/client meetings and distributed meeting notes
+Created product backlog, release backlog, and sprint backlog during client implementation for Agile projects. 
+Performed daily data queries and prepared reports on daily, weekly, monthly and quarterly basis using Tableau
+Worked with PM, Dev Lead, Product Lead, scrum masters to develop test schedule and provide inputs to the overall project schedule.
+Knowledge on Oracle OSS/BSS platforms.
+Schedule, coordinate and communicate with all the facets of enterprise infrastructure for conducting quarterly Table Top drills for the applications in case of a disaster.
+Maintained and updated the Disaster Recovery Business Continuation Plan
+Developed Use-Cases and User Stories and followed the Acceptance Criteria of the requirements and updated in JIRA
+Responsible for preparing test plan documents, and wrote Test Cases based on the user stories and documented in JIRA
+Performed UAT on various native features on mobile devices and tablets using simulators and emulators
+Involved in testing applications on various generations and versions for iOS, Android, Blackberry and Windows platforms
+Led the Defect Management process and prepare status reporting of the system/ Integration and regression test execution.
+Provide operational metrics to management, PMO and support teams on aging tickets, stalled tasks and to highlight bottlenecks as well as identifying opportunities to increase efficiencies.
+Created and ran functional and load tests on schedules, flights, crew and trip APIs on the web services prior to implementing using Soap UI
+Knowledge working with IBM Info sphere. 
+I was responsible to identify most valuable reports by analyzing the data and their relationships.
+Involved in writing SQL queries and database checkpoints to verify data quality, calculations and reviews.
+Developed timelines for project delivery, and managed projects and resources to successful completion.
+
+
+Thompson Reuters – Hyderabad, INDIA
+(May 2010 – Apr 2013)
+Business Analyst and Report Developer
+
+
+Project Description:
+
+Thomson Reuters provides professionals with the intelligence, technology and human expertise they need to find trusted answers. We enable professionals in the financial and risk, legal, tax and accounting, intellectual property and science and media markets to make the decisions that matter most, all powered by the world's most trusted news organization.  Service permission system was one the crucial application which validates and authorizes the orders on Reuter’s products. As a part, we are responsible for developing the new software components and does the production support for the existing application.
+
+Analyzing the Business requirements from clients for the new application, requirements to perform Design, document, develop, test and implementing it accordingly.
+Provide the estimations for the new work orders received.
+Maintain & Support the existing software by handling technical issues or enhancements raised by the client. 
+As a reviewer, was responsible for reviewing tasks done by team members and peers and make sure the quality product/Solution is deliverable to the customer.
+Responsible for the quality procedures to be followed and documented correctly.
+Co-ordinate with client for business concerns.
+Coding and unit testing the new software components.
+Experienced in graphical user interface mockup and website wireframe builder application.
+Fix the defects raised as part of the SIT and UAT phases.
+Resolve any impediments for the team for smooth progression of the project.
+Ensure all quality procedures are followed. 
+Comfortable generating high and low-level system architecture diagrams and design documentation.
+Implement the new components in production and provide production support in the warranty period.
+Able to develop the SQL Queries to be executed at database to compare the OBIEE Reports for matching the outputs
+Got Pleasant Experience in developing the Discoverer Reports using Discoverer Plus/Viewer
+Used the SQL Inspector to generate the SQL Query in Oracle Discoverer and compared to validate the conditions generated are as per the requirement
+Hands on experience on Balsamiq mockup tool.
+Used the OBIEE Usage Tracking to validate the SQL Query generated for the OBIEE Report 
+Developed manual SQL scripts to compare OBIEE and Discoverer Reports Output
+Implement the new components in production and provide production support in the warranty period.
+Resolve all the production incidents within the specified as per SLA.
+Document the new projects implemented in production for future reference.
+Train new members in the project.
+
+
+Academic Background: 
+
+Master’s in Management Information Systems
+UIS – Springfield, Illinois-USA
+
+Bachelor of Technology – Electronics and Communications			
+Jawaharlal Nehru Technological University, Hyderabad, India
+
+

@@ -1,0 +1,139 @@
+Reshma 
+Sr. Business Analyst
+kr.reshma023@gmail.com
+(908) 791-5644
+
+
+SUMMARY OF SKILLS
+Sr. Business Analyst professional with around 8 years of work experience.
+Excellent skills in writing Business Requirements Document, Use Case Specifications, Functional Specifications, Systems Design Specification, and Systems Requirements Specification.
+Experienced working with various methodologies such as Waterfall, Agile, Scrum, Rapid Application Development (RAD), and Rational Unified Process (RUP).
+Ability to prepare RTM (Requirements Traceability Matrix) and requirements analysis & design.
+Proficient in using UML for Business Process Modeling, Use Cases, Activity Diagrams, Sequence Diagrams, Data Flow Diagrams, Collaboration Diagrams and Class Diagrams, and document them using MS Visio.
+Hands-on in conducting JAD sessions and interviews with Subject Matter Experts (SMEs) and Data Stewards to understand the business process, business rules, and data requirements.
+Conducted Scope Analysis, Stakeholder Analysis, GAP Analysis, and Traceability Matrix, and used MS Visio for Business Process Modeling adopting UML standards.
+Highly skilled in transforming the needs of Business Users and Stakeholders to the Functional/Technical Requirements.
+Expert level experience in Derivative SWAP’S Post Trading and PreTrading activity monitoring and reporting exceptions for Dodd Frank Rules and Volcker Controls.
+Analyzed and defined business processes both “AS-IS” and “TO-BE”.
+Working knowledge in creating Test Plans and Test Cases to ensure Quality Assurance and to test all the business requirements.
+Coordinated with Analysts, Managers, Developers and Testers for complex projects during the SDLC.
+Worked with the project team to determine appropriate Test/Deployment Plans, and supported the product launch.
+
+
+WORK EXPERIENCE
+
+Sr. Business Analyst
+Lord Abbett, Jersey City, NJ                                                                          January 2016 – Present
+The project was based on updating the Risk Management System which is responsible for daily publishing of risk metrics which cover a wide range of systems (Trades & Positions, Balances, Counterparty Exposure, etc.) for Compliance, Regulatory and Business reasons. The global risk team comprises of business/technology partners that work on different aspects of these systems to ensure accurate and timely reporting of risk metrics across the bank.
+
+Managed business requirements for the project to move the credit reporting batch to publish counterparty exposure limits earlier as a part of an FSA compliance requirement.
+Assisted the stakeholder meet its overall strategy to implement a more efficient way to meet regulatory and compliance reporting requirements by studying and researching the Dodd Frank and Basel Accord Guidelines.
+Interacted with Business Unit Leaders from Products and Underwriting, Claims, Finance and Sales to gather business requirements.
+Identified and communicated dependencies and potential risks to the completion of the sprints including resources, costs and systems.
+Communicated project changes and status to the stakeholders on a daily basis ensuring each proposed change goes through a systematic project impact analysis.
+Constantly partnered with project leads to ensure the team was producing solutions that met established standards, procedures and practices, address issues, risks and mitigation plans.
+Assisted team with making appropriate commitments through story selection, sizing and tasking.
+Involved in Scrum Sprint Planning Sessions, Backlog Grooming, Sizing, Sprint Retrospectives & Reviews, Daily Stand ups, User Stories and Acceptance Criteria.
+Created SQL queries for indexing and data analysis and created mapping documents. 
+Worked on all aspects of the project from interacting with senior business partners for requirements, development leads and Project manager.
+Created Test Plans and Test Cases post-implementation checks and future enhancements.
+Developed and enhanced process flows for static data resolution, counterparty limits calculations and reporting.
+Tracked post-deployment progress identified improvements and proposed resolutions to existing issues.
+Coordinated UAT with business partners and helped identify relevant test data and reporting metrics.
+
+Environment: UML, IBM WebSphere Agile, Rally, Studio 4.0, Windows NT/2000, Windows XP, Java Script, Microsoft SQL 9.0, MS Visio, Quality center.
+
+
+Sr. Business Analyst
+United Health Group, Minneapolis, MN                                         February 2014 – December 2015
+UHG is a company providing customers with benefits, expertise and service that improves the health, well-being and productivity. As a BA, I was involved in developing fully automated, real-time claims processing system for complete, on-line mediation of medical, dental, vision, and disability claims and encounters as per HIPAA guidelines. System allowed the efficient and timely management of all relevant data clinical, financial, and administrative throughout the organization enabling the sharing of information between subsystems.
+
+Extensively involved in the implementation of effective requirements practices including gathering User Requirements and analyzing User Requirement Document (URD) & Functional Specification Document (FSD).
+Applied RUP methodology with its various workflows, artifacts and activities to manage life cycle from Inception to Transition phase.
+Employed UML methodology in creating UML Diagrams such as Use Cases, Sequence Diagrams, State Diagrams, Activity Diagrams and Business Process & Workflows.
+Converted MS SQL server data tables into SAS data files using SAS SQL.
+Assisted JAD sessions to identify the business flows and determined whether any existing or proposed systems were impacted by the EDI X12 Transaction, Code set and Identifier aspects of HIPAA
+Involved in GAP analysis, mapping, implementation, and testing for processing of Medicaid Claims.
+Worked on EDI transactions: 270, 271, 835, and 837 to identify key data set elements for designated record set.
+Design, develop; test data transformation maps for Medicare Encounter Data Processing System (EDPS) and Medicare Member Enrollment System (M360) for HIPAA ANSI X12 transactions (837-I, 837-P, 834 and 835) using WebSphere Transformation Extender (WTX / Mercator)  
+Assisted team lead in developing Requirements Traceability Matrix (RTM) to trace the relationship between business and functional requirements to Test Cases.
+Prepared and executed different Test Cases and Test Scripts.
+Involved in conducting Functionality Testing, Integration Testing, Regression Testing and User Acceptance Testing (UAT).
+Provided analysis and insight to QA Team in defects and bugs tracking.
+
+Environment: Windows NT/2000, MS SQL Server, RUP, UML, Requisite Pro, Mercury Quality Center Test Director, Clear Quest, MS Office, Java.
+
+
+Business Analyst
+Citi Bank, New York, NY                                                                           July 2012 – January 2014
+The project involved developing a web-based application that offers modified latest brokerage platform to its investors with best available features including e-billing and services. The application built has a pre-condition minor project involving portal uplift and migration of its investors from one of its acquired businesses.
+
+Assisted the Project Managers with the development of project schedules using MS Project.
+Acted as a liaison for projects with other corporate departments including Executive, Legal and Information Services as well as vendor relationships to define the right requirements.
+Established the product backlog and worked with the Product Owners to ensure feature-level user stories were prioritized and accurately reflect customer and business.
+Gathered Business Requirements, analyzed data/workflows for online banking modules, e.g., e-billing, bill payment.
+Ensured that all activities were carried out as defined in the Service Catalog Management process.
+Created presentations in business terms to facilitate discussions with Product Management.
+Reviewed key performance indicators with SMEs and stakeholders.
+Defined the impacts of proposed changes on the business teams in terms of people, process and technology impacts to the business operating model.
+Documented project artifacts such as Stakeholders Analysis, Business Requirement Document (BRD), Functional Requirement Document (FRD), System requirement documentation (SRS), Traceability Matrix, Test Cases, Use Case including Activity Diagram and Sequence Diagram using Visio.
+Planned, coordinated analysis, design and extraction of encounter data from multiple source systems into the data warehouse relational database while ensuring data integrity. 
+Conducted user interviews, JAD sessions, brainstorming and surveys for capturing requirements for both mobile devices and personal laptops.
+Worked on data mapping of source to target elements and performed GAP Analysis.
+Analyzed the existing reports of the reporting system in the database.
+Designed and developed Use Cases, Activity Diagrams, Sequence Diagrams and Business Process with the use of MS Visio.
+Developed Test Cases to be used in UAT testing based on business requirements, technical specifications and/or product knowledge in addition to Pilot testing.
+
+Environment: MS Office, MS Project, MS Visio, SQL, Data warehousing, ETL tools, J2EE, Lotus Notes, SharePoint.
+
+
+Business Analyst
+Atlantic Financial, Washington, DC                                                               April 2011 – June 2012
+The project was to implement a comprehensive trading system for asset management business. The system handles the trading of financial markets, fixed income, and derivative (FX derivatives and options) for listed and OTC market. It enables its users to simultaneously trade a comprehensive set of securities, track live P&L values and examine exposure to shifting market prices, interest rates, volatility, yield-curve assumptions and other risk.
+
+Elicited, analyzed, documented and communicated requirements for implementation of the trading system in the Agile Environment.
+Studied established Trading System to understand the processes and challenges in STP, which helped define project scope.
+Studied OTC Derivatives Trade Lifecycle to analyze trading processes and post-trade processing challenges and recommended system settings to materialize the STP Environment.
+Involved in Risk assessment and planning operations as an IT BA to find solutions from the IT perspective.
+The trade reporting data is reported for Derivative, SWAPs Cash, Equities, Fixed Income & Municipals
+Created Use Cases for appropriate decomposition to Use Case Model. Designed navigation flows, narrations, and user interfaces.
+Conducted Use Case reviews and identified gaps leading to improvements/enhancements in the same, and ensured Use-Cases were consistent and covered all aspects of the Requirements Document.
+Developed UML models for modeling static and dynamic aspects of the Online Banking System.
+Designed Wireframes for the development of the user-friendly User Interface Design.
+Worked directly with software engineers to ensure clear communications on requirements and defect reports.
+Worked with Financial Analysts on Fixed Income Analysis (Pricing, Risk, Yield, Duration, and Recommended Strategy) with Excel to support trading, and reviewed with portfolio manager and traders.
+Developed all SDLC documents including business requirements, technical designs, test plans, issue logs and implementation plans. 
+Conducted user interviews and documented business requirement document, technical requirements document and RTM for the project.
+Created Use Case scenarios and documented workflow and business process.
+Documented project artifacts such as Traceability Matrix, Test Cases, Use Case including Activity Diagram and Sequence Diagram using MS Visio.
+Created Test Plan, Test Cases and Test Scripts.
+Involved in the build process for QA, UAT and Prod environments and coordinated periodic production moves. Created Test Cases and Test Scripts.
+Assisted in development of training materials for new technology and process improvements.
+Worked with application developers, DBAs, QA Testers and User Acceptance Testers.
+Verified the Business Scenarios on new builds to allow extended testing by the QA team once the system was in the testing environment.
+
+Environment: MS Access, MS Excel, MS Word, MS PowerPoint, SQL, MS Project, Lotus Notes, .NET, SharePoint.
+
+
+Business Analyst
+Nike, Chicago, IL                                                                                November 2009 – March 2011
+The goal of the project was to integrate and enhance the existing Web Based E-commerce platform for purchasing apparel and sporting goods using Microsoft Commerce server to provide Business Analytics, Product Catalog, Targeting, and Profiling. The enhanced application provides utilities for selecting products, shopping cart, checkout, payment modes, and membership login for the discounts.
+
+Participated in transforming the organization to Agile/Scrum development methodologies.
+Reported metrics and status to client and closely monitored the Sprint Burn Down Chart to facilitate the team progress.
+Coordinated technical activities to develop and deliver business systems solutions to meet business objectives and on-going operations.
+Captured meeting decisions and content into Excel based tracking logs.
+Created and updated the Story Points in coordination with Product Owners and development team lead.
+Enabled the required interaction between the scrum team and product owners for resolving any impediments to project progress.
+Involved in the design of the front-end using JAVA, JSP and Servlets.
+Converted and modified existing matrix reports from Excel pivot tables to a more dynamic reporting tool utilizing Access, Excel VBA.
+Maintained Burn Down Charts, Sprint Backlog and Product Backlog Sheets; used all SCRUM rituals such as Stand-Up Meeting, Sprint Planning. Sprint Review and Sprint Retrospect.
+Managed client relationship to ensure service delivery per milestone and overall performance.
+Create Data Flow Diagrams (DFD) to depict the source-to-Target Mapping and Data Lineage Analysis.
+Worked on data mapping of source to target elements and performed GAP Analysis.
+Identified Qualitative and Quantitative Risks Analysis and executed resolution strategies.
+
+Environment: MS Project, MS Word, MS Excel, MS Visio, MS SharePoint, J2EE, SQL, Axure, JIRA.
+
+
+EDUCATION: Master’s in Computer Science

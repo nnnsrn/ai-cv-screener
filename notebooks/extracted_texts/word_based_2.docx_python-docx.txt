@@ -1,0 +1,218 @@
+SUMMARY
+Certified Scrum Master and  certified Agile Project Manager with 16 years of  IT experience 
+Extensively experienced in Program Management, Technical Project Management, Product Management and Delivery Management 
+Well experienced in project management activities
+Project Planning
+Resource Management
+Delivery Management
+Escalation Handling
+Stakeholder Management
+Risk Analysis and Mitigation Planning
+Team Competency Improvement
+Continuous Integration Activities
+Agile Transformations
+Extensively experienced in Agile projects
+Individually capable and responsible for planning, envisioning, designing, prototyping and delivering solutions to support transformations. 
+Well versed with SDLC and implemented multiple projects end to end with Agile SCRUM, other methodologies and implemented with Test Driven Development (TDD) 
+Excellent skills and experience in writing and reviewing Project/Product documentation (both technical like Architecture and design documents, coding standards, Deployment executions scripts and plans etc., and non-Technical Documentation like Project Plans, Test Plans, Use Cases, Acceptance criteria, Release Notes etc
+Requirements gathering, Analysis and use case creation for business, functional and technical requirements. 
+Has extensive experience in offshore-onsite coordination, stake holder coordination and Resource Management to maximum utilization.
+Good experience in leading group of projects, mentoring and leading large number of developers irrespective of their physical location.
+Managed projects in fast paced IT environment working with complex team structures and aggressive deadlines
+Extensive experience in preparing and running presentations using various Microsoft tools like power point Word and other presentations tools
+Managed end to end solutions using Java and other technologies., managed multiple Migrations and Upgrades in high availability, scalability and distributed environments
+Good experience working with both models Waterfall and Agile Methodology (Scrum)
+Extensively worked on Core Java, JavaScript, JDBC, HTML
+Good experience on SQL
+Participated in preparing requirement documents, HDD & LDD
+Good experience in Configuration Management, deployment and delivering the packages
+Development experience in UNIX, Linux and Windows environment
+Strong leadership, team management and global delivery experience, delivering high quality services to global clients
+Exposure to AWS, Azure Cloud
+Good exposure to JIRA, HP ALM Tools
+Worked in different geographies (Sweden, Hungary, Ireland, Japan & USA)
+Good team player, continuous learner, self motivated and dependable
+
+
+
+
+CERTIFICATIONS
+Certified Scrum Professional (CSP)
+Certified Scrum Master (CSM)
+Cloudera Certified Hadoop Administrator (CCA-500)
+HDP Certified Administrator (HDPCA: http://bcert.me/sozbhgku)
+Oracle Certified Java Developer (OCJP)
+
+TECHNICAL  SKILLSET
+
+Hadoop Ecosystems:	HDFS, MapReduce, HBase, Pig, Hive, Sqoop, Flume, Oozie, Zookeeper, Scala, YARN, Impala, Kafka
+Hadoop Frameworks: 	Cloudera, Hortonworks
+Databases: 		Oracle, MySql, Hbase
+Java Technologies:	 Core Java, JavaScript, Servlets, JSP, Java Beans, JDBC
+Cloud: 			AWS, Azure
+Languages: 		C, C++, Java
+Scripting Languages: 	Shell Scripting, Perl, Java Script
+Source code control: 	Clearcase, CVS & Github
+IDE: 			Eclipse
+Application Servers: 	Weblogic, Tomcat
+Operating Systems: 	UNIX, Red Hat Linux, Ubuntu Linux, Windows XP/Vista/7/8
+Tools:			 JIRA, Sablime, Ericsson Proprietary tools 
+
+KEY ACIEVEMENTS
+“Best Process Owner” award during customer town-hall meet, from McDonald
+“Best Project Delivery Manager Award” from Ericsson
+"Long service" award from Ericsson Customer
+Received many “Best Role Model” awards from TCS in achieving best CSI
+Many “Role Model” awards from TCS
+“Best Innovative” award from Lucent customer
+
+EDUCATION
+Master of Computer Applications (MCA) from Osmania University with Distinction - 2001
+
+PROJECTS EXPERIENCE
+
+Client: McDonald's, Oak Brook, IL   (HCL America)		                                     Feb 2017 - Present
+Project: Foundation Services (GLS, ConfigServices)
+Technologies: Mulesoft, Cloudhub, Java, Springboot, SOAPUI, Jenkins, GitHub, Webhooks, Terraform, Kibana,  AWS S3, Elastic Search, Jira, Confluence
+Role: Agile Project Manager (Scrum of Scrums)
+Responsibilities: 
+Managed teams across different time zone
+Coached the teams in Agile Methodology following the Scrum framework
+Responsible for the Core metrics of the project
+Responsible for preparing project cost/resource estimates, delivery schedules, and coordinating implementation
+Speculated the Vision and the road map for the project with the Chief Product owner and Product owners
+Responsible for Release planning and Iterative planning's for the project
+Resolved cross functional dependencies and impediments for the teams
+Involved in getting consensus for story estimation in the Scrum team
+Worked closely and assisted Scrum masters in conducting all the Scrum ceremonies right from the sprint pre-planning to sprint retro
+Worked closely with the Source System Analysts and Data Architects in identifying the attributes and Data Design to convert the Business Requirements into Technical Requirements
+Responsible for Stakeholder management
+Responsible for the sprint deployments that was recurring every 3 weeks
+Active participation in Product Backlog grooming session
+Responsible to eliminate impediments and facilitate the team optimum performance
+Responsible for escalation handling 
+Lead Kanban during production period
+Handled Jira boards
+Taken responsibilities of Scrum Master whenever needed
+Responsible for continuous competency improvement
+Responsible for implementing CICD (Continuous Integration and Continuous Deployment)
+Responsible for Test Automation implementation
+
+Client: PwC , USA & India  (TCS)							         July 2014 – Feb 017
+Project: DAAPS (Digital Analytics and App support)
+Technologies: Hive, Sqoop, Java, C#, Unix & SQL Server
+Role: Agile Project Manager
+Responsibilities:
+Managed projects in fast paced IT environment working with complex team structures and aggressive deadlines.
+Provide guidance to customers on User Acceptance Test, conduct product demonstrations and support team for a successful transition of project post production. 
+Review product deliverables for accuracy, and notify client and management of any risks, problems, and recommended solutions.
+Drive product road-map and feature prioritization based on the client strategy and vision.
+Liaison with technology teams to coordinate agile delivery between teams, change requests, resourcing needs, and maintain budgets. Prioritize and juggle projects as necessary.
+Drive development, QA, and UX/UI teams spread across multiple locations (USA and India).  Indirectly managed 48 member team. 
+Consistently meet client expectations utilizing project management best practices and processes with high degree of integrity.
+Organize and facilitate daily stand-ups, review sessions, retrospectives, sprint, project planning, demos, risk management, mitigation plans, kick-offs, client reviews, and other Scrum-related sessions.
+Review the project scope, Statement of Work (SOW), and contract terms.
+Promote and maintain a positive working relationship with client directors, managers, and technology team to identify and close new and expanded business opportunities.
+Regularly evaluate project progress against project plan, report progress and motivate team members to stay on schedule.
+Develop detailed project schedule, estimations, forecasting reports. resource plan, and project status reports, managed task assignments to project resources
+Ensuring defect free ticket resolution & project delivery with 100% compliance
+Technical guidance and assistance to the technical /Project teams
+Provide assistance in technology and business road maps.
+Stake holder management, Escalation Management, RFC management and Change Management
+Experienced in HP ALM for defect tracking
+
+
+Client: British Telecom, UK, Japan, India   (TCS)				                     Jan 2010 – June 2014
+Project: NetSim (Network Simulator) – lON
+Technologies: Hadoop (MAPR), HDFS, Spark, YARN, Map Reduce, Hive, Teradata SQL, PL/SQL, Pig, ETL (Informatica), Kafka, Sqoop, Oozie, HBase, DB2, Java, Python, UNIX Shell Scripting, Teradata, Amazon Web Services, GitHub, Oracle, Maven
+Role: Delivery Manager
+Responsibilities:
+Requirement review meetings
+Visiting client places for new feature discussions
+Responsible for Stakeholder discussions when needed
+Planning and scheduling the requirements
+Participating in Stakeholder meetings and pushing the priorities depends on capacity
+Escalation handling
+RCA Handling
+Team Management
+Daily status tracking and updating to customer
+F2F meeting with Customer with current status and improvement plans
+Responsible to eliminate impediments and facilitate the team optimum performance  
+Removing obstacles that affect the team
+Ensuring project delivery with 100% compliance
+Driving Continuous Integration implementation
+Driving improvements suggested by team and client
+Visiting Client place for regular OSG meetings
+Coordination with multi-geo located team
+Managed 32 member team
+
+
+Client: Ericsson, Sweden, Hungary, Ireland & India   (TCS)			        Oct 2005 – Dec 2009
+Project: Cellular Network Administrator (CNA) , 
+Technologies: Java, C++, JavaScript, XML, XSLT, SQL, PL/SQL, JUnit, Log4j, Windows XP, Red Hat LINUX,
+                           Clearcase, JIRA
+Role: Java Technical Lead, Onsite Coordinator, Scrum Master
+Responsibilities:
+Java Technical Lead  
+Participating in Requirement review meetings
+Creating HDD, LDD documents
+Development and delivery activities
+Code review activities
+Document review activities
+Responsible for Team competency
+Onsite Co-ordinator
+Coordinating activities between Client and Offshore team
+Delivery activities
+Document version control activities from Onsite
+Running test activities on customer servers
+Participating in customer issue discussions
+Developer activities
+Scrum Master
+Tech Lead activities
+Agile coach activities
+Sprint delivery activities
+Attending product backlog grooming sessions
+Conducting Sprint planning meetings
+Creating tasks in JIRA tool
+Conducting daily stand up meetings
+Responsible to eliminate impediments and facilitate the team optimum performance
+Conducting Sprint demo to PO and Customer
+Conducting Retrospective meetings
+Helping the team from interruptions during sprint
+Removing obstacles that affect the team
+Burn down chart discussions with Customer when required
+
+
+
+
+
+Client: Lucent Technologies, USA   (Datacore Technologies)		                    July 2004 -  Sept 2005
+Project: NMS (Network Management Systems), Offshore
+Technologies: Java, Unix, Tuxedo, Sablime, Clearcase, JavaScript, JUnit & Sybase
+Role: Technical Lead 
+Responsibilities:
+Reviewed the functional, design, source code and test specifications
+Involved in developing the complete front end development using Java Swing
+Author for Functional, Design and Test Specifications.
+Implemented the presentation layer with HTML, XHTML and JavaScript
+Used JDBC for database access
+Written and executed the Test Scripts using JUNIT
+Participated in System Testing activities
+Prepared the Installation, Customer guide and Configuration document which were delivered to the customer along with the product
+Participated in Code Review activities
+Participated in Bug fixing activities
+
+Client: Broadcom, USA    (Deccanet Designs)  				                    Feb 2002 – June 2004
+Project: MST (MUI System Testing), Offshore
+Technologies: Java, JavaScript, HTML, CSS, JDK, JDBC, Oracle, XML, XSL, Solaris and UML
+Role: Developer 
+Responsibilities:
+Participated as a observer in Requirement discussions
+Developing JUnit Test cases
+Testing on Simulator
+Participation in Test Case and Test Spec documentation
+Manual testing of NEC Handsets
+
+
+REFERENCES
+Available upon need
